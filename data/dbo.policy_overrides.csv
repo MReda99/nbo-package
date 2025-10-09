@@ -1,0 +1,5 @@
+override_id,promotion_id,legal_flag,policy_paused_flag,claims_approved,override_reason,created_by,created_date,modified_by,modified_date
+1,1,1,0,1,Approved by legal team,System,2025-09-19 00:14:03.197,NULL,NULL
+2,2,0,0,1,Legal issues with wording,System,2025-09-19 00:14:03.197,NULL,NULL
+3,3,1,1,1,Temporarily paused for business reasons,System,2025-09-19 00:14:03.197,NULL,NULL
+4,4,1,0,0,Claims pending approval,System,2025-09-19 00:14:03.197,NULL,NULL

@@ -1,0 +1,31 @@
+{
+  "model": {
+    "n_estimators": 100,
+    "random_state": 42,
+    "calibration_cv": 5,
+    "min_treatment_samples": 10,
+    "min_control_samples": 10
+  },
+  "data": {
+    "decision_day": "2025-08-22T00:00:00Z",
+    "fatigue_window_hours": 72,
+    "default_expected_ticket": 5.0,
+    "default_margin_pct": 0.3
+  },
+  "guardrails": {
+    "min_margin_floor": 0.2,
+    "max_discount_cap": 0.25,
+    "min_eim_threshold": 0.0,
+    "enforce_margin_floors": true,
+    "enforce_discount_caps": true
+  },
+  "output": {
+    "save_intermediate_files": true,
+    "output_format": "both",
+    "include_provenance": true
+  },
+  "logging": {
+    "level": "INFO",
+    "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  }
+}

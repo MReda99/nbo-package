@@ -1,0 +1,316 @@
+guest_id,data_source,event_activity,event_date,transaction_date,message_key,device_name,campaign_id,delivery_id,utm_source,utm_medium,utm_campaign,has_any_utm,complete_utm_loss_flag,channel_name,rendered_screen_size,visits,touch_count,touchpoint_sequence,is_multi_touch,is_any_touch,is_first_touch,is_last_touch,touchpoint_type,days_between,influenced_flag
+BkSCwCcU,Campaign Data,Mobile App Click,2025-03-10 09:54:54.0000000,2025-03-12,1,Android,9,89,email,push,promo_09,1,0,iOS applications channel,Undefined,1,2,1,1,1,1,0,First Touch,2,1
+41XJOLlX,Campaign Data,Opt-out,2024-12-04 05:17:53.0000000,2024-12-05,14,Desktop,25,185,subway_app,email,promo_25,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+oavw1O9Z,Campaign Data,Open,2025-08-01 07:12:43.0000000,2025-08-02,17,iPhone,24,144,email,push,promo_24,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+kyayq7YY,Campaign Data,Open,2025-08-20 15:05:19.0000000,2025-08-21,18,Desktop,33,73,subway_app,push,promo_33,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+9XebLeaq,Campaign Data,Open,2025-03-12 07:43:34.0000000,2025-03-13,23,iPhone,16,136,subway_app,push,promo_16,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+lFcfdoMo,Campaign Data,Open,2024-11-02 13:00:00.0000000,2024-11-16,32,iPhone,12,132,Undefined,Undefined,Undefined,0,-1,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,14,0
+lFcfdoMo,Campaign Data,Email Click,2024-11-03 17:00:00.0000000,2024-11-16,32,Desktop,20,60,subway_app,push,promo_20,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,13,0
+lFcfdoMo,Campaign Data,Email Click,2024-11-04 11:00:00.0000000,2024-11-16,32,Android,2,122,Undefined,Undefined,Undefined,0,-1,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,12,0
+lFcfdoMo,Campaign Data,Mobile App Click,2024-11-05 16:00:00.0000000,2024-11-16,32,Desktop,27,107,Undefined,Undefined,Undefined,0,-1,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,11,0
+nc7d8YzG,Campaign Data,Open,2024-12-23 16:55:31.0000000,2024-12-25,33,iPhone,34,34,email,email,promo_34,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+nc7d8YzG,Campaign Data,Email Click,2024-12-24 07:28:06.0000000,2024-12-25,33,Android,33,233,subway_app,push,promo_33,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+WWlEHPC6,Campaign Data,Open,2025-05-30 18:00:00.0000000,2025-06-07,36,iPhone,16,296,subway_app,push,promo_16,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,8,0
+WWlEHPC6,Campaign Data,Mobile App Click,2025-05-31 08:00:00.0000000,2025-06-07,36,Desktop,38,118,Undefined,Undefined,Undefined,0,-1,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,7,0
+WWlEHPC6,Campaign Data,Open,2025-06-01 15:00:00.0000000,2025-06-07,36,iPhone,20,20,subway_app,email,promo_20,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,6,0
+WWlEHPC6,Campaign Data,Email Click,2025-06-02 08:00:00.0000000,2025-06-07,36,Android,22,222,email,email,promo_22,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,5,0
+WWlEHPC6,Web Visit Data,Undefined,2025-06-05 00:00:00.0000000,2025-06-07,36,iPhone,0,0,Web Visits,Web Visits,Web Visits,1,0,Web Visit,1080x2340,2,1,1,0,1,1,1,SingleTouch,2,0
+SyFzpjPS,Campaign Data,Open,2024-10-04 10:03:17.0000000,2024-10-05,38,iPhone,31,31,email,email,promo_31,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+AZvUhERE,Campaign Data,Open,2025-06-29 08:18:42.0000000,2025-07-01,40,Android,36,156,subway_app,email,promo_36,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+E4mGh3Ry,Campaign Data,Email Click,2025-03-27 17:39:27.0000000,2025-03-28,53,iPhone,37,157,subway_app,push,promo_37,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+fnCME3Ek,Campaign Data,Mobile App Click,2024-09-27 12:49:00.0000000,2024-09-29,56,Desktop,12,12,email,email,promo_12,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+GeUUg5qP,Campaign Data,Email Click,2025-06-24 07:01:38.0000000,2025-06-26,60,iPhone,1,161,subway_app,email,promo_01,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+Rt0TSMcn,Campaign Data,Mobile App Click,2025-04-08 07:19:49.0000000,2025-04-09,76,iPhone,10,50,email,push,promo_10,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+Sb22Q4tn,Web Visit Data,Undefined,2025-07-02 00:00:00.0000000,2025-07-12,79,Desktop,0,0,Web Visits,Web Visits,Web Visits,0,-1,Web Visit,1179x2556,1,1,1,0,1,1,1,SingleTouch,10,0
+WB36Ud9s,Campaign Data,Open,2025-06-22 11:31:01.0000000,2025-06-23,83,Android,11,131,subway_app,email,promo_11,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+RaE6iPlM,Web Visit Data,Undefined,2025-01-13 00:00:00.0000000,2025-01-22,89,Android,0,0,Web Visits,Web Visits,Web Visits,1,0,Web Visit,1920x1080,3,1,1,0,1,1,1,SingleTouch,9,0
+EJHwBVJv,Campaign Data,Open,2024-10-30 14:57:50.0000000,2024-11-01,91,iPhone,30,230,subway_app,email,promo_30,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+3QHtDP9b,Campaign Data,Open,2024-10-12 06:17:57.0000000,2024-10-13,98,iPhone,9,89,email,push,promo_09,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+MzXubOrY,Campaign Data,Open,2025-03-23 14:07:54.0000000,2025-03-25,101,iPhone,13,213,email,email,promo_13,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+9djTrfc6,Campaign Data,Open,2025-06-05 07:02:16.0000000,2025-06-07,110,iPhone,11,211,subway_app,push,promo_11,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+JmxJseyG,Campaign Data,Email Click,2025-02-08 12:53:34.0000000,2025-02-09,113,Desktop,37,237,email,push,promo_37,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+QTupqziQ,Campaign Data,Open,2025-01-04 16:36:19.0000000,2025-01-06,115,Android,34,274,email,email,promo_34,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+FJglPMf1,Campaign Data,Open,2025-06-23 15:07:55.0000000,2025-06-25,119,iPhone,2,42,subway_app,email,promo_02,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+cozMdant,Campaign Data,Email Click,2024-10-13 15:00:31.0000000,2024-10-14,125,Android,1,161,subway_app,email,promo_01,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+uDCCRnGE,Campaign Data,Mobile App Click,2025-01-20 08:50:09.0000000,2025-01-22,126,Desktop,25,145,subway_app,email,promo_25,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+9XebLeaq,Campaign Data,Open,2025-06-15 03:13:52.0000000,2025-06-16,132,Desktop,21,221,subway_app,push,promo_21,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+dloZHc9z,Campaign Data,Email Click,2024-12-08 16:58:24.0000000,2024-12-09,141,iPhone,31,71,subway_app,push,promo_31,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+CvB003PM,Campaign Data,Email Click,2025-02-13 12:17:48.0000000,2025-02-15,144,iPhone,24,104,email,push,promo_24,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+Uy7zNPHs,Campaign Data,Open,2024-09-26 11:53:43.0000000,2024-09-27,146,Desktop,29,269,subway_app,push,promo_29,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+3jCIEwvJ,Campaign Data,Open,2024-12-18 12:07:09.0000000,2024-12-20,147,Desktop,3,43,subway_app,email,promo_03,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+ul9z9usV,Campaign Data,Open,2024-10-18 17:05:38.0000000,2024-10-19,148,Desktop,38,238,email,push,promo_38,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+La3X2UfU,Campaign Data,Open,2025-06-04 12:42:14.0000000,2025-06-05,149,Desktop,22,222,email,email,promo_22,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+NjpiEQhK,Campaign Data,Open,2025-02-20 07:11:38.0000000,2025-02-22,151,iPhone,29,149,email,email,promo_29,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+IGWhfEQi,Web Visit Data,Undefined,2025-06-08 00:00:00.0000000,2025-06-14,154,Desktop,0,0,Web Visits,Web Visits,Web Visits,1,0,Web Visit,1920x1080,1,1,1,0,1,1,1,SingleTouch,6,0
+aQ3IDAdm,Campaign Data,Open,2025-03-14 07:16:04.0000000,2025-03-15,155,Desktop,37,197,subway_app,push,promo_37,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+HtAd32ji,Campaign Data,Open,2025-06-10 18:30:51.0000000,2025-06-12,158,iPhone,29,189,email,email,promo_29,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+yDIPwtqx,Campaign Data,Email Click,2025-05-11 07:44:13.0000000,2025-05-13,160,Android,6,206,email,push,promo_06,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+Tow88H5s,Campaign Data,Open,2024-11-20 05:12:29.0000000,2024-11-22,168,iPhone,12,172,subway_app,push,promo_12,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+NOQ7N6EQ,Campaign Data,Open,2025-01-08 11:00:00.0000000,2025-01-09,171,iPhone,18,138,subway_app,push,promo_18,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+DvJXNMET,Campaign Data,Open,2025-01-02 15:11:51.0000000,2025-01-03,172,iPhone,8,8,email,email,promo_08,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+m5PCZif5,Campaign Data,Mobile App Click,2025-04-06 05:56:47.0000000,2025-04-07,174,Desktop,33,33,subway_app,email,promo_33,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+FMIbOGKp,Campaign Data,Open,2025-05-03 15:51:12.0000000,2025-05-05,175,iPhone,15,55,subway_app,push,promo_15,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+zTOAshzb,Campaign Data,Mobile App Click,2025-06-08 17:00:00.0000000,2025-06-22,176,iPhone,28,108,Undefined,Undefined,Undefined,0,-1,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,14,0
+fo16hD8h,Campaign Data,Open,2025-05-19 15:03:11.0000000,2025-05-20,178,iPhone,10,50,subway_app,push,promo_10,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+41l76c1z,Campaign Data,Email Click,2025-08-31 15:46:05.0000000,2025-09-01,179,Desktop,27,187,subway_app,push,promo_27,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+eDA4OKmT,Campaign Data,Email Click,2025-01-10 08:00:00.0000000,2025-01-14,186,iPhone,23,183,subway_app,push,promo_23,1,0,iOS applications channel,Undefined,1,2,1,1,1,1,0,First Touch,4,0
+eDA4OKmT,Campaign Data,Open,2025-01-11 18:00:00.0000000,2025-01-14,186,Desktop,23,23,subway_app,push,promo_23,1,0,iOS applications channel,Undefined,1,2,2,1,1,0,1,Last Touch,3,0
+eDA4OKmT,Campaign Data,Mobile App Click,2025-01-12 06:52:23.0000000,2025-01-14,186,Android,4,84,email,push,promo_04,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+eDA4OKmT,Campaign Data,Open,2025-01-12 15:00:00.0000000,2025-01-14,186,Desktop,32,32,subway_app,push,promo_32,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+PYvK2g5H,Campaign Data,Open,2025-02-25 05:05:55.0000000,2025-02-26,196,Desktop,4,284,subway_app,push,promo_04,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+kirtrFje,Campaign Data,Open,2025-03-11 06:40:01.0000000,2025-03-13,205,Android,40,40,email,push,promo_40,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+o52HAS5x,Campaign Data,Open,2025-06-01 13:28:49.0000000,2025-06-02,206,Android,13,293,subway_app,email,promo_13,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+Q911xJPM,Campaign Data,Open,2024-10-30 20:00:00.0000000,2024-11-10,207,Android,34,234,Undefined,Undefined,Undefined,0,-1,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,11,0
+Q911xJPM,Campaign Data,Open,2024-10-31 13:00:00.0000000,2024-11-10,207,iPhone,21,221,Undefined,Undefined,Undefined,0,-1,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,10,0
+Q911xJPM,Campaign Data,Mobile App Click,2024-11-01 14:00:00.0000000,2024-11-10,207,Android,3,3,subway_app,email,promo_03,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,9,0
+Q911xJPM,Campaign Data,Email Click,2024-11-02 14:00:00.0000000,2024-11-10,207,iPhone,22,182,subway_app,push,promo_22,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,8,0
+Uy7zNPHs,Campaign Data,Mobile App Click,2025-08-24 12:57:12.0000000,2025-08-26,208,iPhone,33,233,subway_app,email,promo_33,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+dfOB1rca,Campaign Data,Open,2024-10-22 06:29:05.0000000,2024-10-24,210,Android,31,151,subway_app,email,promo_31,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+sZpTefrj,Campaign Data,Open,2024-10-28 09:57:56.0000000,2024-10-29,211,Desktop,37,237,subway_app,email,promo_37,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+HrNMSiA1,Campaign Data,Open,2025-05-20 17:54:52.0000000,2025-05-22,212,Android,6,126,subway_app,push,promo_06,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+AFEn3z5d,Campaign Data,Mobile App Click,2024-12-22 06:49:47.0000000,2024-12-24,213,iPhone,27,67,subway_app,push,promo_27,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+Bfs0QOME,Campaign Data,Open,2025-04-30 17:29:17.0000000,2025-05-01,215,iPhone,5,165,subway_app,push,promo_05,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+KAxIRlWE,Campaign Data,Email Click,2024-12-08 17:49:41.0000000,2024-12-09,216,Desktop,9,49,email,email,promo_09,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+oCYS8kgn,Campaign Data,Open,2025-07-15 05:36:22.0000000,2025-07-17,217,iPhone,22,62,subway_app,push,promo_22,1,0,Android applications channel,Undefined,1,2,2,1,1,0,1,Last Touch,2,1
+8xWjmMGz,Campaign Data,Open,2025-04-07 16:59:07.0000000,2025-04-09,219,iPhone,39,79,subway_app,email,promo_39,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+OjtR469Y,Campaign Data,Opt-out,2025-05-06 03:44:10.0000000,2025-05-08,230,Android,10,170,email,push,promo_10,1,0,Android applications channel,Undefined,1,2,2,1,1,0,1,Last Touch,2,1
+OaSkfF2B,Campaign Data,Email Click,2025-08-13 12:07:22.0000000,2025-08-14,231,Android,23,183,subway_app,email,promo_23,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+QTupqziQ,Campaign Data,Open,2025-01-18 11:12:08.0000000,2025-01-19,245,Desktop,14,94,email,email,promo_14,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+8woPeX9P,Campaign Data,Open,2024-11-15 07:47:29.0000000,2024-11-17,248,Android,9,169,email,email,promo_09,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+IToGJ1QZ,Campaign Data,Email Click,2024-09-25 04:28:21.0000000,2024-09-26,249,Android,13,253,email,push,promo_13,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+cLxUif6s,Web Visit Data,Undefined,2024-12-17 00:00:00.0000000,2024-12-28,254,iPhone,0,0,Web Visits,Web Visits,Web Visits,0,-1,Web Visit,1366x768,2,1,1,0,1,1,1,SingleTouch,11,0
+cLxUif6s,Campaign Data,Open,2024-12-26 13:25:02.0000000,2024-12-28,254,iPhone,18,218,subway_app,push,promo_18,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+GeUUg5qP,Campaign Data,Open,2024-11-21 15:42:33.0000000,2024-11-23,255,Desktop,15,135,email,push,promo_15,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+7lH9zMKO,Campaign Data,Open,2025-08-31 07:18:58.0000000,2025-09-02,257,iPhone,38,118,email,push,promo_38,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+U0igyQMM,Campaign Data,Mobile App Click,2025-01-25 13:11:43.0000000,2025-01-26,258,iPhone,18,18,subway_app,push,promo_18,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+e7EcsAlX,Campaign Data,Email Click,2025-01-20 10:59:14.0000000,2025-01-22,259,iPhone,4,44,subway_app,email,promo_04,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+RbpxFMCl,Campaign Data,Open,2025-01-09 12:00:00.0000000,2025-01-22,260,Android,6,126,subway_app,push,promo_06,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,13,0
+RbpxFMCl,Campaign Data,Email Click,2025-01-10 11:00:00.0000000,2025-01-22,260,Desktop,13,53,Undefined,Undefined,Undefined,0,-1,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,12,0
+RbpxFMCl,Campaign Data,Email Click,2025-01-11 11:00:00.0000000,2025-01-22,260,Android,3,283,Undefined,Undefined,Undefined,0,-1,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,11,0
+RbpxFMCl,Campaign Data,Mobile App Click,2025-01-12 08:00:00.0000000,2025-01-22,260,Android,20,140,subway_app,email,promo_20,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,10,0
+RbpxFMCl,Campaign Data,Open,2025-01-21 12:43:51.0000000,2025-01-22,260,Android,12,292,email,email,promo_12,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+a5W3X4gX,Web Visit Data,Undefined,2025-08-26 00:00:00.0000000,2025-09-01,264,iPhone,0,0,Web Visits,Web Visits,Web Visits,1,0,Web Visit,1920x1080,3,1,1,0,1,1,1,SingleTouch,6,0
+EDnvMju3,Campaign Data,Mobile App Click,2025-08-13 13:42:13.0000000,2025-08-14,265,iPhone,35,75,subway_app,push,promo_35,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+KsEECvl9,Campaign Data,Mobile App Click,2025-05-20 12:42:57.0000000,2025-05-21,269,Desktop,2,122,email,push,promo_02,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+QxTChgWQ,Campaign Data,Opt-out,2025-08-27 08:28:24.0000000,2025-08-28,270,iPhone,35,275,email,email,promo_35,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+XR0upt4j,Campaign Data,Open,2025-05-15 05:22:52.0000000,2025-05-17,275,Desktop,9,89,subway_app,email,promo_09,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+5KRUhoVG,Campaign Data,Open,2025-07-23 07:31:06.0000000,2025-07-24,279,iPhone,26,226,email,push,promo_26,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+rBFbyvQR,Campaign Data,Open,2025-02-06 09:26:12.0000000,2025-02-07,280,Desktop,10,10,subway_app,push,promo_10,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+p9cR4uy6,Campaign Data,Email Click,2025-03-03 10:43:38.0000000,2025-03-05,282,Desktop,10,210,subway_app,push,promo_10,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+vXiOqkVC,Campaign Data,Mobile App Click,2025-01-23 16:00:00.0000000,2025-01-28,289,Android,13,13,Undefined,Undefined,Undefined,0,-1,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,5,0
+vXiOqkVC,Campaign Data,Open,2025-01-24 15:00:00.0000000,2025-01-28,289,iPhone,24,184,email,email,promo_24,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,4,0
+vXiOqkVC,Campaign Data,Open,2025-01-25 13:00:00.0000000,2025-01-28,289,iPhone,31,111,subway_app,push,promo_31,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,3,0
+vXiOqkVC,Campaign Data,Email Click,2025-01-26 14:00:00.0000000,2025-01-28,289,Desktop,10,290,Undefined,Undefined,Undefined,0,-1,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+gp4IiyDx,Campaign Data,Open,2025-02-09 18:56:31.0000000,2025-02-11,291,Desktop,38,38,email,push,promo_38,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+R02fP2PW,Campaign Data,Open,2024-11-12 15:00:39.0000000,2024-11-14,292,Desktop,32,72,subway_app,email,promo_32,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+ZAP4Zkhi,Campaign Data,Open,2025-08-23 05:45:42.0000000,2025-09-03,298,Desktop,29,269,subway_app,email,promo_29,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,11,0
+aDNKgeIn,Campaign Data,Mobile App Click,2025-06-28 13:49:55.0000000,2025-06-29,303,Desktop,14,94,subway_app,email,promo_14,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+sUt1LLQF,Campaign Data,Open,2024-10-06 15:01:17.0000000,2024-10-07,305,Desktop,15,95,email,email,promo_15,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+csmcYm4c,Campaign Data,Mobile App Click,2025-07-21 09:41:25.0000000,2025-07-30,327,iPhone,29,29,email,push,promo_29,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,9,0
+LfRiuhpt,Campaign Data,Open,2025-07-21 13:22:49.0000000,2025-07-23,329,Android,39,239,email,email,promo_39,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+ZMi3qdPE,Campaign Data,Open,2025-05-01 07:27:27.0000000,2025-05-03,330,Android,6,246,subway_app,email,promo_06,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+3JjhcaKM,Campaign Data,Mobile App Click,2025-08-08 12:00:00.0000000,2025-08-20,339,Android,20,260,subway_app,email,promo_20,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,12,0
+3JjhcaKM,Campaign Data,Email Click,2025-08-09 09:00:00.0000000,2025-08-20,339,iPhone,33,193,subway_app,push,promo_33,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,11,0
+3JjhcaKM,Campaign Data,Open,2025-08-10 21:00:00.0000000,2025-08-20,339,Android,23,143,Undefined,Undefined,Undefined,0,-1,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,10,0
+3JjhcaKM,Campaign Data,Open,2025-08-11 18:00:00.0000000,2025-08-20,339,Android,24,104,Undefined,Undefined,Undefined,0,-1,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,9,0
+DfQnPOMb,Campaign Data,Open,2025-01-28 16:10:56.0000000,2025-01-29,343,Android,28,268,email,email,promo_28,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+jbcpEN2X,Campaign Data,Open,2025-06-09 10:32:20.0000000,2025-06-11,345,Desktop,3,203,email,email,promo_03,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+BmS6i4Pt,Campaign Data,Open,2024-11-09 08:00:00.0000000,2024-11-23,353,Android,28,188,subway_app,push,promo_28,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,14,0
+2SRg3oit,Campaign Data,Open,2024-11-26 03:04:26.0000000,2024-11-28,354,Desktop,10,290,email,push,promo_10,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+PYvK2g5H,Campaign Data,Open,2025-07-08 08:40:57.0000000,2025-07-18,364,Desktop,27,147,subway_app,push,promo_27,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,10,0
+RVJ3oVPJ,Web Visit Data,Undefined,2025-05-21 00:00:00.0000000,2025-06-01,367,Desktop,0,0,Web Visits,Web Visits,Web Visits,0,-1,Web Visit,1366x768,3,1,1,0,1,1,1,SingleTouch,11,0
+DAdn1Ay5,Campaign Data,Open,2025-07-07 13:20:57.0000000,2025-07-08,378,iPhone,13,173,subway_app,email,promo_13,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+gsA69fh1,Campaign Data,Open,2024-11-05 15:45:14.0000000,2024-11-06,379,Desktop,27,227,email,push,promo_27,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+NIb6zLKQ,Campaign Data,Mobile App Click,2025-07-11 05:40:27.0000000,2025-07-13,398,Desktop,25,105,subway_app,email,promo_25,1,0,iOS applications channel,Undefined,1,2,2,1,1,0,1,Last Touch,2,1
+djkWNdRf,Campaign Data,Open,2024-09-21 12:43:43.0000000,2024-09-23,400,iPhone,17,57,subway_app,push,promo_17,1,0,iOS applications channel,Undefined,1,2,1,1,1,1,0,First Touch,2,1
+hic8ctFh,Campaign Data,Opt-out,2025-04-19 03:41:52.0000000,2025-04-20,401,Desktop,26,226,email,email,promo_26,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+djkWNdRf,Campaign Data,Email Click,2025-05-31 10:04:58.0000000,2025-06-02,413,iPhone,17,97,email,email,promo_17,1,0,Android applications channel,Undefined,1,2,2,1,1,0,1,Last Touch,2,1
+LFXXmU5I,Campaign Data,Opt-out,2025-05-06 13:07:15.0000000,2025-05-08,414,Desktop,29,29,email,push,promo_29,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+2hsfWkrC,Campaign Data,Open,2024-12-12 02:38:50.0000000,2024-12-14,416,Android,35,195,subway_app,push,promo_35,1,0,Android applications channel,Undefined,1,2,1,1,1,1,0,First Touch,2,1
+5ETbB8Pk,Web Visit Data,Undefined,2025-08-30 00:00:00.0000000,2025-09-03,420,Android,0,0,Web Visits,Web Visits,Web Visits,0,-1,Web Visit,1080x2340,2,1,1,0,1,1,1,SingleTouch,4,0
+bHEav6Nm,Campaign Data,Open,2025-08-11 08:54:08.0000000,2025-08-13,423,Desktop,25,265,email,email,promo_25,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+lFcfdoMo,Campaign Data,Opt-out,2025-01-25 09:14:40.0000000,2025-01-27,424,Desktop,7,247,email,email,promo_07,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+JP8RvqW0,Web Visit Data,Undefined,2025-07-04 00:00:00.0000000,2025-07-08,425,iPhone,0,0,Web Visits,Web Visits,Web Visits,0,-1,Web Visit,1179x2556,2,1,1,0,1,1,1,SingleTouch,4,0
+eR3pzh84,Campaign Data,Open,2025-06-01 07:52:02.0000000,2025-06-02,427,Android,24,104,email,push,promo_24,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+ac23apcE,Campaign Data,Opt-out,2025-03-04 19:00:00.0000000,2025-03-15,436,Android,17,57,email,push,promo_17,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,11,0
+ac23apcE,Campaign Data,Mobile App Click,2025-03-05 20:00:00.0000000,2025-03-15,436,iPhone,7,47,subway_app,push,promo_07,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,10,0
+YxyE6D4c,Campaign Data,Email Click,2025-08-28 08:05:23.0000000,2025-08-30,438,Android,38,278,subway_app,push,promo_38,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+UAk4AF4y,Campaign Data,Open,2025-08-22 03:49:45.0000000,2025-08-23,439,Desktop,29,69,subway_app,push,promo_29,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+ToRIOYE6,Campaign Data,Mobile App Click,2024-10-03 09:37:01.0000000,2024-10-05,445,iPhone,38,78,email,email,promo_38,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+CWJr0NRN,Web Visit Data,Undefined,2025-04-20 00:00:00.0000000,2025-04-21,449,iPhone,0,0,Web Visits,Web Visits,Web Visits,1,0,Web Visit,1920x1080,1,1,1,0,1,1,1,SingleTouch,1,1
+CWJr0NRN,Campaign Data,Mobile App Click,2025-04-20 11:10:15.0000000,2025-04-21,449,iPhone,23,263,subway_app,email,promo_23,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+Go8NcUY6,Web Visit Data,Undefined,2024-12-23 00:00:00.0000000,2024-12-27,453,Android,0,0,Web Visits,Web Visits,Web Visits,1,0,Web Visit,1179x2556,2,1,1,0,1,1,1,SingleTouch,4,0
+yDIPwtqx,Campaign Data,Open,2025-06-18 18:17:22.0000000,2025-06-19,464,Android,9,49,email,email,promo_09,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+VlhaTiSa,Campaign Data,Open,2025-06-27 13:10:51.0000000,2025-06-28,467,iPhone,32,232,subway_app,email,promo_32,1,0,Email channel,Undefined,1,2,2,1,1,0,1,Last Touch,1,1
+tsnBYLMP,Campaign Data,Open,2025-03-31 10:00:00.0000000,2025-04-02,469,Android,13,213,Undefined,Undefined,Undefined,0,-1,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+tsnBYLMP,Campaign Data,Open,2025-04-01 10:00:00.0000000,2025-04-02,469,Desktop,16,216,subway_app,email,promo_16,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+4SFhbOMZ,Campaign Data,Open,2025-07-20 09:58:04.0000000,2025-07-21,470,iPhone,17,177,subway_app,email,promo_17,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+zv1NyZ3v,Campaign Data,Open,2024-10-16 12:33:11.0000000,2024-10-17,472,Android,38,158,email,push,promo_38,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+FJglPMf1,Campaign Data,Open,2025-07-28 10:15:26.0000000,2025-07-29,477,Desktop,37,237,email,email,promo_37,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+jTneAAvI,Campaign Data,Open,2025-04-15 11:48:30.0000000,2025-04-16,480,Android,20,260,subway_app,email,promo_20,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+jW9o3RUR,Campaign Data,Mobile App Click,2025-05-31 08:09:53.0000000,2025-06-01,489,iPhone,6,86,subway_app,push,promo_06,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+ZAP4Zkhi,Campaign Data,Open,2025-08-13 16:00:00.0000000,2025-08-25,490,Android,33,73,email,push,promo_33,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,12,0
+ZAP4Zkhi,Campaign Data,Mobile App Click,2025-08-14 08:00:00.0000000,2025-08-25,490,Android,21,141,Undefined,Undefined,Undefined,0,-1,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,11,0
+ZAP4Zkhi,Campaign Data,Open,2025-08-23 05:45:42.0000000,2025-08-25,490,Desktop,29,269,subway_app,email,promo_29,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+EDnvMju3,Campaign Data,Open,2025-07-26 06:14:49.0000000,2025-07-28,491,Desktop,4,204,email,push,promo_04,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+YO9FPulT,Web Visit Data,Undefined,2025-06-18 00:00:00.0000000,2025-06-29,497,iPhone,0,0,Web Visits,Web Visits,Web Visits,1,0,Web Visit,1920x1080,1,1,1,0,1,1,1,SingleTouch,11,0
+OluOdaCr,Campaign Data,Open,2025-04-15 14:36:55.0000000,2025-04-17,498,iPhone,13,293,email,email,promo_13,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+iLoHRCaa,Campaign Data,Open,2025-02-17 11:05:23.0000000,2025-02-19,506,iPhone,20,180,subway_app,push,promo_20,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+RU8VVQmx,Campaign Data,Email Click,2025-04-30 17:49:14.0000000,2025-05-01,507,iPhone,19,219,subway_app,email,promo_19,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+8UjwtvDY,Campaign Data,Mobile App Click,2025-01-24 09:15:24.0000000,2025-01-26,509,iPhone,34,74,subway_app,push,promo_34,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+kaupYoTV,Campaign Data,Open,2024-09-17 12:28:15.0000000,2024-09-18,510,Desktop,20,100,subway_app,push,promo_20,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+w712llpL,Campaign Data,Opt-out,2025-03-06 03:12:41.0000000,2025-03-08,511,Desktop,16,56,email,push,promo_16,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+SpdQhDtk,Web Visit Data,Undefined,2025-03-05 00:00:00.0000000,2025-03-09,513,Desktop,0,0,Web Visits,Web Visits,Web Visits,1,0,Web Visit,1179x2556,1,1,1,0,1,1,1,SingleTouch,4,0
+UfGVwdgB,Campaign Data,Email Click,2024-10-04 04:29:05.0000000,2024-10-05,515,iPhone,20,100,email,push,promo_20,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+o06UKuKM,Web Visit Data,Undefined,2024-09-30 00:00:00.0000000,2024-10-13,517,Desktop,0,0,Web Visits,Web Visits,Web Visits,0,-1,Web Visit,1920x1080,1,1,1,0,1,1,1,SingleTouch,13,0
+gV1PWpt3,Campaign Data,Open,2025-08-18 18:00:00.0000000,2025-08-30,519,Android,1,81,subway_app,push,promo_01,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,12,0
+gV1PWpt3,Campaign Data,Email Click,2025-08-19 10:00:00.0000000,2025-08-30,519,iPhone,28,268,Undefined,Undefined,Undefined,0,-1,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,11,0
+oeGPrnjl,Campaign Data,Open,2025-04-18 11:06:27.0000000,2025-04-20,529,Desktop,8,128,subway_app,email,promo_08,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+1QtFYKJw,Campaign Data,Opt-out,2024-11-14 17:26:49.0000000,2024-11-21,534,Android,35,115,email,push,promo_35,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,7,0
+MzXubOrY,Campaign Data,Mobile App Click,2025-01-13 07:51:58.0000000,2025-01-15,542,Android,21,221,subway_app,push,promo_21,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+fz52TcGK,Campaign Data,Mobile App Click,2024-09-27 11:40:23.0000000,2024-09-29,544,Desktop,3,203,subway_app,push,promo_03,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+mvAK56Dj,Campaign Data,Mobile App Click,2025-08-21 11:50:47.0000000,2025-08-22,545,iPhone,7,7,subway_app,push,promo_07,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+zLhww2DN,Campaign Data,Mobile App Click,2024-11-17 10:27:29.0000000,2024-11-18,546,Desktop,3,43,email,push,promo_03,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+xS5ZIMO6,Campaign Data,Open,2025-03-25 19:34:05.0000000,2025-03-26,548,Android,25,225,subway_app,push,promo_25,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+YrLdwGet,Campaign Data,Open,2025-03-23 16:44:36.0000000,2025-03-24,552,Android,29,69,email,email,promo_29,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+5QqfPIyl,Campaign Data,Open,2025-01-14 05:12:21.0000000,2025-01-15,553,Android,29,229,subway_app,email,promo_29,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+RXia9J7k,Campaign Data,Open,2025-05-10 16:08:21.0000000,2025-05-12,555,Desktop,29,189,subway_app,push,promo_29,1,0,iOS applications channel,Undefined,1,2,1,1,1,1,0,First Touch,2,1
+o52HAS5x,Campaign Data,Mobile App Click,2025-02-01 08:37:04.0000000,2025-02-03,556,iPhone,8,208,subway_app,email,promo_08,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+rCQBFMCA,Campaign Data,Open,2025-08-29 10:57:20.0000000,2025-08-30,559,Desktop,23,143,email,push,promo_23,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+MjRC8xxC,Campaign Data,Open,2024-11-17 05:51:46.0000000,2024-11-18,561,iPhone,32,152,email,push,promo_32,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+1QtFYKJw,Campaign Data,Opt-out,2024-11-14 17:26:49.0000000,2024-11-15,565,Android,35,115,email,push,promo_35,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+JP8RvqW0,Web Visit Data,Undefined,2025-07-04 00:00:00.0000000,2025-07-15,566,iPhone,0,0,Web Visits,Web Visits,Web Visits,0,-1,Web Visit,1179x2556,2,1,1,0,1,1,1,SingleTouch,11,0
+hlxSjGyA,Web Visit Data,Undefined,2025-05-15 00:00:00.0000000,2025-05-18,569,Android,0,0,Web Visits,Web Visits,Web Visits,1,0,Web Visit,1179x2556,1,1,1,0,1,1,1,SingleTouch,3,0
+Q911xJPM,Campaign Data,Open,2024-10-16 11:42:15.0000000,2024-10-17,572,Desktop,19,259,email,email,promo_19,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+R8KCDXsX,Campaign Data,Open,2024-10-02 05:22:02.0000000,2024-10-04,574,iPhone,24,64,email,push,promo_24,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+UmuhVI8W,Campaign Data,Email Click,2025-06-09 15:43:45.0000000,2025-06-10,575,Android,33,33,email,email,promo_33,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+kvASFsQ8,Campaign Data,Open,2025-08-26 12:13:52.0000000,2025-08-27,576,Desktop,39,159,subway_app,push,promo_39,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+N6E32VUd,Campaign Data,Email Click,2025-02-11 09:00:00.0000000,2025-02-25,579,Android,20,220,Undefined,Undefined,Undefined,0,-1,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,14,0
+N6E32VUd,Campaign Data,Mobile App Click,2025-02-12 19:00:00.0000000,2025-02-25,579,Desktop,36,116,subway_app,email,promo_36,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,13,0
+N6E32VUd,Campaign Data,Open,2025-02-24 11:49:39.0000000,2025-02-25,579,Desktop,2,282,subway_app,push,promo_02,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+g5OPctYC,Web Visit Data,Undefined,2024-10-26 00:00:00.0000000,2024-11-05,581,Android,0,0,Web Visits,Web Visits,Web Visits,1,0,Web Visit,1179x2556,3,1,1,0,1,1,1,SingleTouch,10,0
+g5OPctYC,Campaign Data,Opt-out,2024-11-04 17:45:00.0000000,2024-11-05,581,iPhone,19,59,email,push,promo_19,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+E4mGh3Ry,Campaign Data,Email Click,2025-02-09 12:29:35.0000000,2025-02-11,586,Desktop,16,136,subway_app,email,promo_16,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+dJp62hDi,Campaign Data,Open,2024-11-10 15:16:32.0000000,2024-11-24,587,Android,1,121,subway_app,push,promo_01,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,14,0
+dJp62hDi,Web Visit Data,Undefined,2024-11-18 00:00:00.0000000,2024-11-24,587,Desktop,0,0,Web Visits,Web Visits,Web Visits,1,0,Web Visit,1366x768,1,1,1,0,1,1,1,SingleTouch,6,0
+YxyE6D4c,Campaign Data,Open,2024-12-11 09:54:04.0000000,2024-12-19,590,Android,4,204,email,push,promo_04,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,8,0
+OluOdaCr,Campaign Data,Mobile App Click,2024-12-25 07:37:34.0000000,2024-12-27,591,Desktop,16,256,subway_app,push,promo_16,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+PYvK2g5H,Campaign Data,Open,2025-07-08 08:40:57.0000000,2025-07-09,593,Desktop,27,147,subway_app,push,promo_27,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+XlNQGqkU,Web Visit Data,Undefined,2025-06-14 00:00:00.0000000,2025-06-17,602,Android,0,0,Web Visits,Web Visits,Web Visits,1,0,Web Visit,1366x768,1,1,1,0,1,1,1,SingleTouch,3,0
+9djTrfc6,Campaign Data,Email Click,2025-01-15 13:00:00.0000000,2025-01-16,604,Desktop,5,285,subway_app,email,promo_05,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+r5IKQcl7,Campaign Data,Mobile App Click,2025-08-28 14:00:00.0000000,2025-09-05,605,Desktop,25,265,Undefined,Undefined,Undefined,0,-1,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,8,0
+r5IKQcl7,Campaign Data,Email Click,2025-08-29 20:00:00.0000000,2025-09-05,605,Android,20,220,email,email,promo_20,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,7,0
+WLIVMmXU,Campaign Data,Open,2024-11-14 16:32:21.0000000,2024-11-15,611,Desktop,11,131,subway_app,email,promo_11,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+sUt1LLQF,Campaign Data,Open,2024-10-06 15:01:17.0000000,2024-10-17,612,Desktop,15,95,email,email,promo_15,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,11,0
+sUt1LLQF,Campaign Data,Open,2024-10-09 08:29:02.0000000,2024-10-17,612,Desktop,8,128,email,email,promo_08,1,0,Email channel,Undefined,1,2,1,1,1,1,0,First Touch,8,0
+KJ1Fjdxa,Campaign Data,Open,2024-10-20 10:27:07.0000000,2024-10-22,613,Desktop,19,299,subway_app,push,promo_19,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+q0aVnLec,Web Visit Data,Undefined,2024-12-29 00:00:00.0000000,2025-01-05,615,Desktop,0,0,Web Visits,Web Visits,Web Visits,1,0,Web Visit,1366x768,1,1,1,0,1,1,1,SingleTouch,7,0
+q0aVnLec,Campaign Data,Open,2025-01-03 07:59:16.0000000,2025-01-05,615,Android,33,33,subway_app,email,promo_33,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+b4UUQ0s8,Campaign Data,Opt-out,2025-03-26 19:00:00.0000000,2025-04-07,619,Android,18,18,email,push,promo_18,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,12,0
+b4UUQ0s8,Campaign Data,Open,2025-03-27 19:00:00.0000000,2025-04-07,619,iPhone,14,94,Undefined,Undefined,Undefined,0,-1,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,11,0
+b4UUQ0s8,Campaign Data,Mobile App Click,2025-04-05 05:56:12.0000000,2025-04-07,619,Android,22,262,subway_app,email,promo_22,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+ku2HChRn,Campaign Data,Open,2025-04-05 11:00:00.0000000,2025-04-15,623,Desktop,7,127,Undefined,Undefined,Undefined,0,-1,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,10,0
+ku2HChRn,Campaign Data,Open,2025-04-06 18:00:00.0000000,2025-04-15,623,Android,27,147,Undefined,Undefined,Undefined,0,-1,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,9,0
+M41PREsI,Campaign Data,Open,2025-04-29 13:13:16.0000000,2025-04-30,625,Desktop,20,180,subway_app,push,promo_20,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+JbM7Q1Sr,Campaign Data,Email Click,2025-05-11 14:35:51.0000000,2025-05-12,631,Android,3,83,email,push,promo_03,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+hlxSjGyA,Campaign Data,Mobile App Click,2025-04-20 12:14:07.0000000,2025-04-22,634,Android,28,188,email,email,promo_28,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+pnLwddsF,Web Visit Data,Undefined,2025-04-04 00:00:00.0000000,2025-04-09,635,Desktop,0,0,Web Visits,Web Visits,Web Visits,0,-1,Web Visit,1920x1080,3,1,1,0,1,1,1,SingleTouch,5,0
+lb8z2CJV,Campaign Data,Mobile App Click,2025-04-01 09:34:45.0000000,2025-04-02,646,iPhone,2,122,email,push,promo_02,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+Xo62fsM4,Campaign Data,Open,2025-06-26 11:00:00.0000000,2025-07-10,653,iPhone,7,207,Undefined,Undefined,Undefined,0,-1,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,14,0
+Xo62fsM4,Campaign Data,Mobile App Click,2025-06-27 12:00:00.0000000,2025-07-10,653,Desktop,39,279,Undefined,Undefined,Undefined,0,-1,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,13,0
+NjpiEQhK,Campaign Data,Email Click,2025-08-28 05:08:54.0000000,2025-08-29,657,Desktop,4,244,email,push,promo_04,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+NjpiEQhK,Campaign Data,Mobile App Click,2025-08-28 12:00:00.0000000,2025-08-29,657,Android,33,273,subway_app,push,promo_33,1,0,iOS applications channel,Undefined,1,2,2,1,1,0,1,Last Touch,1,1
+SCuetcZT,Campaign Data,Open,2024-12-20 11:06:37.0000000,2024-12-21,665,iPhone,15,15,subway_app,push,promo_15,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+8QwGt2k1,Campaign Data,Email Click,2025-06-25 05:50:13.0000000,2025-06-27,669,iPhone,5,125,subway_app,email,promo_05,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+lm41m1dp,Campaign Data,Email Click,2025-07-19 15:00:00.0000000,2025-08-02,670,iPhone,8,8,Undefined,Undefined,Undefined,0,-1,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,14,0
+6an7m9Vh,Campaign Data,Email Click,2024-12-14 09:48:30.0000000,2024-12-16,671,Desktop,33,113,email,push,promo_33,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+lRLQyfXN,Campaign Data,Open,2025-03-26 09:00:00.0000000,2025-04-09,673,Desktop,7,247,Undefined,Undefined,Undefined,0,-1,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,14,0
+lRLQyfXN,Campaign Data,Email Click,2025-04-07 14:31:43.0000000,2025-04-09,673,iPhone,24,64,email,email,promo_24,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+BLzHfz3t,Web Visit Data,Undefined,2024-10-08 00:00:00.0000000,2024-10-16,676,iPhone,0,0,Web Visits,Web Visits,Web Visits,1,0,Web Visit,1366x768,1,1,1,0,1,1,1,SingleTouch,8,0
+1ffBgVVx,Campaign Data,Open,2024-10-24 11:08:39.0000000,2024-10-25,705,Desktop,18,298,subway_app,email,promo_18,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+eYTuHo9l,Campaign Data,Open,2024-09-21 17:22:33.0000000,2024-09-22,707,Android,29,189,subway_app,email,promo_29,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+XFmoijes,Campaign Data,Open,2024-12-06 16:00:00.0000000,2024-12-20,712,Android,16,16,email,email,promo_16,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,14,0
+XFmoijes,Campaign Data,Open,2024-12-07 18:00:00.0000000,2024-12-20,712,iPhone,14,94,Undefined,Undefined,Undefined,0,-1,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,13,0
+mAQ8yRV5,Campaign Data,Open,2025-03-20 07:07:03.0000000,2025-03-21,719,iPhone,35,195,subway_app,email,promo_35,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+l3c2sxZR,Campaign Data,Open,2024-10-20 14:42:08.0000000,2024-10-21,720,Android,20,180,subway_app,email,promo_20,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+fz52TcGK,Web Visit Data,Undefined,2025-04-04 00:00:00.0000000,2025-04-10,722,Desktop,0,0,Web Visits,Web Visits,Web Visits,0,-1,Web Visit,1366x768,2,1,1,0,1,1,1,SingleTouch,6,0
+EJHwBVJv,Campaign Data,Mobile App Click,2024-12-04 10:26:13.0000000,2024-12-06,724,iPhone,34,154,email,push,promo_34,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+9XebLeaq,Campaign Data,Open,2025-03-12 07:43:34.0000000,2025-03-13,729,iPhone,16,136,subway_app,push,promo_16,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+yr0Yzxh7,Campaign Data,Mobile App Click,2025-06-08 08:21:17.0000000,2025-06-10,730,Desktop,26,26,email,push,promo_26,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+INdMdQgP,Campaign Data,Mobile App Click,2025-01-06 14:36:05.0000000,2025-01-08,733,Android,14,94,email,email,promo_14,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+FHy6JhqX,Campaign Data,Email Click,2025-08-22 03:11:52.0000000,2025-08-23,738,Desktop,2,282,email,push,promo_02,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+o1evMXN9,Campaign Data,Opt-out,2025-01-02 09:50:20.0000000,2025-01-10,741,iPhone,38,158,subway_app,email,promo_38,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,8,0
+8wcoWFoe,Campaign Data,Open,2025-08-12 10:42:50.0000000,2025-08-14,744,Android,13,133,email,push,promo_13,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+fo16hD8h,Web Visit Data,Undefined,2024-09-10 00:00:00.0000000,2024-09-23,745,iPhone,0,0,Web Visits,Web Visits,Web Visits,1,0,Web Visit,1080x2340,3,1,1,0,1,1,1,SingleTouch,13,0
+XlNQGqkU,Campaign Data,Email Click,2025-01-24 10:04:42.0000000,2025-01-25,748,Android,12,92,subway_app,push,promo_12,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+PNcKPRPz,Campaign Data,Open,2025-02-10 17:56:30.0000000,2025-02-12,751,iPhone,31,71,email,push,promo_31,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+dryRMMc3,Campaign Data,Open,2025-08-13 06:04:49.0000000,2025-08-15,753,Android,18,98,subway_app,email,promo_18,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+dloZHc9z,Campaign Data,Open,2025-07-25 11:51:46.0000000,2025-07-26,760,Desktop,17,17,email,email,promo_17,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+4SFhbOMZ,Campaign Data,Open,2025-03-08 14:13:36.0000000,2025-03-09,764,iPhone,19,59,email,push,promo_19,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+o52HAS5x,Campaign Data,Email Click,2024-09-19 15:29:10.0000000,2024-09-20,766,Android,25,265,email,push,promo_25,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+bxtl8nv8,Campaign Data,Email Click,2025-07-19 09:00:39.0000000,2025-07-20,772,iPhone,18,298,subway_app,email,promo_18,1,0,iOS applications channel,Undefined,1,2,2,1,1,0,1,Last Touch,1,1
+VRqLy0O8,Campaign Data,Open,2024-10-29 13:20:10.0000000,2024-10-30,784,Android,15,55,subway_app,email,promo_15,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+2qGFq562,Web Visit Data,Undefined,2025-08-27 00:00:00.0000000,2025-08-30,785,Desktop,0,0,Web Visits,Web Visits,Web Visits,1,0,Web Visit,1366x768,1,1,1,0,1,1,1,SingleTouch,3,0
+AJYJElxJ,Web Visit Data,Undefined,2025-08-02 00:00:00.0000000,2025-08-12,794,iPhone,0,0,Web Visits,Web Visits,Web Visits,1,0,Web Visit,1080x2340,1,1,1,0,1,1,1,SingleTouch,10,0
+WcWUCInB,Campaign Data,Open,2025-06-07 09:17:17.0000000,2025-06-08,802,Android,19,219,subway_app,email,promo_19,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+cCqw30fC,Campaign Data,Mobile App Click,2024-11-03 17:53:35.0000000,2024-11-05,804,Desktop,2,282,subway_app,email,promo_02,1,0,Android applications channel,Undefined,1,3,3,1,1,0,1,Last Touch,2,1
+U27c66lA,Campaign Data,Mobile App Click,2025-01-05 15:18:26.0000000,2025-01-07,807,Desktop,13,173,subway_app,push,promo_13,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+1Is42BZa,Campaign Data,Email Click,2025-03-19 06:53:43.0000000,2025-03-20,814,Desktop,38,278,email,push,promo_38,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+sUt1LLQF,Campaign Data,Open,2024-10-09 08:29:02.0000000,2024-10-21,816,Desktop,8,128,email,email,promo_08,1,0,Email channel,Undefined,1,2,1,1,1,1,0,First Touch,12,0
+BkSCwCcU,Campaign Data,Mobile App Click,2025-07-22 06:31:17.0000000,2025-07-23,823,iPhone,9,289,subway_app,email,promo_09,1,0,Android applications channel,Undefined,1,2,2,1,1,0,1,Last Touch,1,1
+esQeqgmU,Campaign Data,Open,2025-01-24 13:49:11.0000000,2025-01-26,825,iPhone,17,177,email,email,promo_17,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+YWXfiNBO,Campaign Data,Mobile App Click,2025-01-25 09:25:07.0000000,2025-01-26,827,Android,33,33,subway_app,push,promo_33,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+XL8Sb24W,Campaign Data,Email Click,2025-03-24 12:34:34.0000000,2025-03-25,829,Android,28,68,email,push,promo_28,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+BM0lIsug,Campaign Data,Open,2025-01-30 09:57:52.0000000,2025-02-01,834,Android,7,247,subway_app,push,promo_07,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+RXVd6MVF,Campaign Data,Email Click,2025-06-24 12:10:22.0000000,2025-06-25,841,Android,26,66,subway_app,push,promo_26,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+PBr1xiRU,Campaign Data,Open,2024-11-09 10:26:38.0000000,2024-11-11,843,Android,30,190,subway_app,email,promo_30,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+tLUKaqPx,Campaign Data,Open,2025-08-21 10:55:04.0000000,2025-08-23,846,iPhone,18,98,subway_app,email,promo_18,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+YgFmMmXq,Campaign Data,Open,2025-07-13 07:51:02.0000000,2025-07-15,850,iPhone,8,88,email,push,promo_08,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+cCqw30fC,Campaign Data,Opt-out,2025-07-25 16:17:30.0000000,2025-07-27,860,Android,36,276,subway_app,push,promo_36,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+sUt1LLQF,Campaign Data,Open,2025-08-31 17:30:06.0000000,2025-09-01,861,Desktop,19,99,subway_app,push,promo_19,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+aTnnrWTZ,Campaign Data,Mobile App Click,2025-07-06 11:36:07.0000000,2025-07-08,865,iPhone,26,26,email,email,promo_26,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+VzYZ2Is9,Web Visit Data,Undefined,2025-03-02 00:00:00.0000000,2025-03-04,869,iPhone,0,0,Web Visits,Web Visits,Web Visits,1,0,Web Visit,1080x2340,2,1,1,0,1,1,1,SingleTouch,2,1
+VzYZ2Is9,Campaign Data,Open,2025-03-03 17:25:27.0000000,2025-03-04,869,Android,13,133,subway_app,email,promo_13,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+csmcYm4c,Campaign Data,Mobile App Click,2025-07-21 09:41:25.0000000,2025-07-22,871,iPhone,29,29,email,push,promo_29,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+9PYXLKoU,Web Visit Data,Undefined,2025-02-06 00:00:00.0000000,2025-02-14,877,Android,0,0,Web Visits,Web Visits,Web Visits,1,0,Web Visit,1366x768,3,1,1,0,1,1,1,SingleTouch,8,0
+8woPeX9P,Campaign Data,Open,2025-02-16 12:44:57.0000000,2025-02-22,891,Android,25,185,email,email,promo_25,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,6,0
+8woPeX9P,Campaign Data,Email Click,2025-02-21 11:24:02.0000000,2025-02-22,891,iPhone,6,246,email,email,promo_06,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+DWKWLCR7,Campaign Data,Open,2025-02-15 10:00:00.0000000,2025-03-01,892,iPhone,15,215,subway_app,email,promo_15,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,14,0
+DWKWLCR7,Campaign Data,Open,2025-02-16 12:00:00.0000000,2025-03-01,892,Android,8,88,email,email,promo_08,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,13,0
+DWKWLCR7,Campaign Data,Open,2025-02-17 14:00:00.0000000,2025-03-01,892,Android,16,256,subway_app,email,promo_16,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,12,0
+EeoyfUZg,Campaign Data,Email Click,2025-02-10 09:37:27.0000000,2025-02-11,900,iPhone,15,135,email,push,promo_15,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+lZieTX8D,Campaign Data,Email Click,2024-12-26 11:45:31.0000000,2024-12-28,904,iPhone,36,76,email,push,promo_36,1,0,Email channel,Undefined,1,2,2,1,1,0,1,Last Touch,2,1
+hrXI0xI0,Campaign Data,Email Click,2025-04-03 14:02:04.0000000,2025-04-05,908,Android,9,249,email,email,promo_09,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+blrSWt6v,Campaign Data,Open,2025-03-22 13:50:07.0000000,2025-03-23,914,Desktop,26,266,subway_app,push,promo_26,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+lE5NMc4Y,Campaign Data,Mobile App Click,2025-03-03 11:47:40.0000000,2025-03-05,925,Android,12,292,email,email,promo_12,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+EGj9dCgZ,Campaign Data,Open,2025-01-22 17:16:03.0000000,2025-01-24,931,Android,6,206,email,email,promo_06,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+W1HmbRaO,Campaign Data,Email Click,2024-09-18 07:11:33.0000000,2024-09-19,932,Desktop,35,35,subway_app,email,promo_35,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+ZIAWLoJd,Campaign Data,Email Click,2024-12-28 13:51:29.0000000,2024-12-30,933,Android,10,170,email,email,promo_10,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+4S5jIc1x,Web Visit Data,Undefined,2025-07-14 00:00:00.0000000,2025-07-16,937,iPhone,0,0,Web Visits,Web Visits,Web Visits,0,-1,Web Visit,1366x768,3,1,1,0,1,1,1,SingleTouch,2,0
+uDCCRnGE,Campaign Data,Email Click,2025-05-27 11:43:38.0000000,2025-05-29,938,Android,15,215,subway_app,push,promo_15,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+DfQnPOMb,Web Visit Data,Undefined,2025-01-07 00:00:00.0000000,2025-01-13,939,Desktop,0,0,Web Visits,Web Visits,Web Visits,1,0,Web Visit,1366x768,3,1,1,0,1,1,1,SingleTouch,6,0
+DfQnPOMb,Campaign Data,Open,2025-01-11 10:38:51.0000000,2025-01-13,939,Desktop,23,263,email,email,promo_23,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+v0Yttr1F,Campaign Data,Open,2024-10-07 06:55:36.0000000,2024-10-09,946,iPhone,30,70,subway_app,push,promo_30,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+VN4mCLBy,Campaign Data,Open,2025-08-15 05:27:04.0000000,2025-08-17,949,iPhone,33,233,email,email,promo_33,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+lZieTX8D,Campaign Data,Open,2024-11-10 06:19:42.0000000,2024-11-11,951,iPhone,36,76,subway_app,push,promo_36,1,0,Email channel,Undefined,1,2,1,1,1,1,0,First Touch,1,1
+SHBo8ZEY,Campaign Data,Open,2025-03-21 03:47:57.0000000,2025-03-23,953,iPhone,14,14,subway_app,email,promo_14,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+NTsRw6Ri,Campaign Data,Open,2025-04-28 10:41:59.0000000,2025-04-30,954,iPhone,15,255,email,push,promo_15,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+roIskXDK,Campaign Data,Open,2025-03-06 13:15:44.0000000,2025-03-08,961,Android,12,132,subway_app,email,promo_12,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+8woPeX9P,Campaign Data,Open,2025-02-16 12:44:57.0000000,2025-02-18,973,Android,25,185,email,email,promo_25,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+sGQONvf0,Campaign Data,Email Click,2025-03-15 11:50:07.0000000,2025-03-16,974,Android,34,194,email,email,promo_34,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+oCYS8kgn,Campaign Data,Open,2025-02-22 14:46:15.0000000,2025-02-24,977,Android,37,117,subway_app,email,promo_37,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+sUt1LLQF,Campaign Data,Open,2024-10-06 15:01:17.0000000,2024-10-11,978,Desktop,15,95,email,email,promo_15,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,5,0
+sUt1LLQF,Campaign Data,Open,2024-10-09 08:29:02.0000000,2024-10-11,978,Desktop,8,128,email,email,promo_08,1,0,Email channel,Undefined,1,2,1,1,1,1,0,First Touch,2,1
+4S5jIc1x,Campaign Data,Open,2025-05-24 20:00:00.0000000,2025-06-05,984,Desktop,16,296,subway_app,email,promo_16,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,12,0
+4S5jIc1x,Campaign Data,Mobile App Click,2025-05-25 10:00:00.0000000,2025-06-05,984,iPhone,17,97,email,push,promo_17,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,11,0
+RXVd6MVF,Campaign Data,Mobile App Click,2024-09-29 17:38:59.0000000,2024-09-30,985,Android,35,275,subway_app,email,promo_35,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+Izn9B0nF,Campaign Data,Open,2025-06-18 12:06:14.0000000,2025-06-19,986,iPhone,28,68,email,email,promo_28,1,0,iOS applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+QZ7mBhIo,Campaign Data,Open,2024-09-15 08:00:00.0000000,2024-09-19,991,Desktop,37,157,subway_app,email,promo_37,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,4,0
+QZ7mBhIo,Campaign Data,Open,2024-09-16 08:00:00.0000000,2024-09-19,991,Desktop,19,179,email,push,promo_19,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,3,0
+QZ7mBhIo,Campaign Data,Mobile App Click,2024-09-17 11:00:00.0000000,2024-09-19,991,iPhone,12,132,email,push,promo_12,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+QZ7mBhIo,Campaign Data,Email Click,2024-09-18 20:00:00.0000000,2024-09-19,991,Android,28,28,subway_app,push,promo_28,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+hpFOMeH4,Campaign Data,Open,2025-03-06 18:30:16.0000000,2025-03-07,992,iPhone,2,282,email,push,promo_02,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+vtuikU8B,Campaign Data,Open,2024-12-09 14:08:05.0000000,2024-12-11,993,Desktop,11,91,subway_app,email,promo_11,1,0,Android applications channel,Undefined,1,1,1,0,1,1,1,Single Touch,2,1
+4uG4yAM6,Campaign Data,Email Click,2025-08-17 12:38:54.0000000,2025-08-18,996,Desktop,17,17,email,email,promo_17,1,0,Email channel,Undefined,1,1,1,0,1,1,1,Single Touch,1,1
+d2W7JDPJ,Web Visit Data,Undefined,2025-01-07 00:00:00.0000000,2025-01-12,997,Android,0,0,Web Visits,Web Visits,Web Visits,0,-1,Web Visit,1366x768,3,1,1,0,1,1,1,SingleTouch,5,0
+OlYxGohm,Web Visit Data,Undefined,2024-12-31 00:00:00.0000000,2025-01-08,998,Android,0,0,Web Visits,Web Visits,Web Visits,0,-1,Web Visit,1920x1080,2,1,1,0,1,1,1,SingleTouch,8,0

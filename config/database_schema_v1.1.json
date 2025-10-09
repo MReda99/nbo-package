@@ -1,0 +1,2617 @@
+{
+    "database": "subway_nbo_v2",
+    "schemas": {
+        "dbo": {
+            "tables": {
+                "decision_log_v2": {
+                    "columns": [
+                        {
+                            "name": "guest_id",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "promotion_id",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "promotion_name",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "p_treat",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "p_ctrl",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "uplift",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "expected_ticket",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "margin_pct",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "discount_band",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "discount_cost_banded",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "cannibalization_penalty",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "eim_final",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "channel_eligibility",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "snapshot_id",
+                            "data_type": "date"
+                        },
+                        {
+                            "name": "build_version",
+                            "data_type": "date"
+                        },
+                        {
+                            "name": "model_version",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "code_commit_sha",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "why_selected",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "score_ts",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "nlp_rationale",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "top_features_shap",
+                            "data_type": "nvarchar"
+                        }
+                    ]
+                },
+                "model_scores_v2": {
+                    "columns": [
+                        {
+                            "name": "guest_id",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "promotion_id",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "aov_7d",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "visits_7d",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "aov_28d",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "visits_28d",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "aov_90d",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "visits_90d",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "aov_365d",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "recency_days",
+                            "data_type": "smallint"
+                        },
+                        {
+                            "name": "redemption_rate_90d",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "coupon_depth_90d",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "daypart_ratio_breakfast",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "daypart_ratio_lunch",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "daypart_ratio_dinner",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "solo_group_ratio",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "delivery_ratio",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "touches_72h",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "touches_email_72h",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "touches_push_72h",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "touches_inapp_72h",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "no_convert_72h",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "assist_email_72h",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "assist_push_72h",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "assist_inapp_72h",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "assist_web_72h",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "sku_affinity_topk_stub",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "new_item_trial_flag",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "rfm_r",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "rfm_f",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "rfm_m",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "mosaic_segment",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "holiday_flag",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "p_treat",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "p_ctrl",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "uplift",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "base_price",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "allowed_discount_bands",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "margin_basis_pct",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "channel_eligibility",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "promotion_name",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "product_category",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "max_discount_pct",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "margin_floor_pct",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "expected_ticket",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "margin_pct",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "discount_band",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "discount_cost",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "cannibalization_penalty",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "eim_raw",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "snapshot_id",
+                            "data_type": "date"
+                        },
+                        {
+                            "name": "build_version",
+                            "data_type": "date"
+                        },
+                        {
+                            "name": "model_version",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "code_commit_sha",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "score_ts",
+                            "data_type": "nvarchar"
+                        }
+                    ]
+                },
+                "pilot_config": {
+                    "columns": [
+                        {
+                            "name": "pilot_start_date",
+                            "data_type": "date"
+                        }
+                    ]
+                },
+                "policy_overrides": {
+                    "columns": [
+                        {
+                            "name": "override_id",
+                            "data_type": "int"
+                        },
+                        {
+                            "name": "promotion_id",
+                            "data_type": "int"
+                        },
+                        {
+                            "name": "legal_flag",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "policy_paused_flag",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "claims_approved",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "override_reason",
+                            "data_type": "varchar"
+                        },
+                        {
+                            "name": "created_by",
+                            "data_type": "varchar"
+                        },
+                        {
+                            "name": "created_date",
+                            "data_type": "datetime"
+                        },
+                        {
+                            "name": "modified_by",
+                            "data_type": "varchar"
+                        },
+                        {
+                            "name": "modified_date",
+                            "data_type": "datetime"
+                        }
+                    ]
+                },
+                "promotions": {
+                    "columns": [
+                        {
+                            "name": "promotion_id",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "promotion_name",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "product_category",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "base_price",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "margin_basis_pct",
+                            "data_type": "decimal"
+                        },
+                        {
+                            "name": "allowed_discount_bands",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "channel_eligibility",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "start_date",
+                            "data_type": "date"
+                        },
+                        {
+                            "name": "end_date",
+                            "data_type": "date"
+                        },
+                        {
+                            "name": "snapshot_date",
+                            "data_type": "date"
+                        }
+                    ]
+                },
+                "stg_campaign_influenced_transactions": {
+                    "columns": [
+                        {
+                            "name": "guest_id",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "data_source",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "event_activity",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "event_date",
+                            "data_type": "datetime2"
+                        },
+                        {
+                            "name": "transaction_date",
+                            "data_type": "date"
+                        },
+                        {
+                            "name": "message_key",
+                            "data_type": "smallint"
+                        },
+                        {
+                            "name": "device_name",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "campaign_id",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "delivery_id",
+                            "data_type": "smallint"
+                        },
+                        {
+                            "name": "utm_source",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "utm_medium",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "utm_campaign",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "has_any_utm",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "complete_utm_loss_flag",
+                            "data_type": "smallint"
+                        },
+                        {
+                            "name": "channel_name",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "rendered_screen_size",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "visits",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "touch_count",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "touchpoint_sequence",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "is_multi_touch",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "is_any_touch",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "is_first_touch",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "is_last_touch",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "touchpoint_type",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "days_between",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "influenced_flag",
+                            "data_type": "bit"
+                        }
+                    ]
+                },
+                "stg_kl_fact_campaigns": {
+                    "columns": [
+                        {
+                            "name": "guest_profile_id",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "channel_name",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "event_link",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "campaign_id",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "has_any_utm",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "utm_source",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "utm_medium",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "utm_campaign",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "complete_utm_loss_flag",
+                            "data_type": "smallint"
+                        },
+                        {
+                            "name": "event_activity",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "event_date",
+                            "data_type": "datetime2"
+                        },
+                        {
+                            "name": "last_open_ts",
+                            "data_type": "datetime2"
+                        },
+                        {
+                            "name": "last_click_ts",
+                            "data_type": "datetime2"
+                        },
+                        {
+                            "name": "device",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "mobile_device",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "operating_system",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "delivery_id",
+                            "data_type": "smallint"
+                        },
+                        {
+                            "name": "delivery_cd",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "name",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "label",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "nature",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "status",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "touchpoint_count",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "touchpoint_sequence",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "is_first_touch",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "is_last_touch",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "is_multi_touch",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "engagement_score",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "base_score",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "channel_multiplier",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "recency_weight",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "hour_of_day",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "daypart_segment",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "opt_out_flag",
+                            "data_type": "bit"
+                        }
+                    ]
+                },
+                "stg_kl_fact_redemptions": {
+                    "columns": [
+                        {
+                            "name": "loyalty_guest_id",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "week_ending_date",
+                            "data_type": "date"
+                        },
+                        {
+                            "name": "transaction_date",
+                            "data_type": "datetime2"
+                        },
+                        {
+                            "name": "transaction_hour",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "time_of_day",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "day_of_week",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "message_key",
+                            "data_type": "smallint"
+                        },
+                        {
+                            "name": "transaction_date_utc",
+                            "data_type": "datetime2"
+                        },
+                        {
+                            "name": "order_discount_amount",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "menu_item_id",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "menu_item_name",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "menu_item_description",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "plu",
+                            "data_type": "int"
+                        },
+                        {
+                            "name": "product_category_description",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "department_description",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "menu_item_status_type_description",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "flavor_description",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "flavor_long_name",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "flavor_short_name",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "line_item_quantity",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "line_item_amount",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "line_item_amount_less_vat",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "line_item_discount_amount",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "line_item_description",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "order_total",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "order_amount",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "iso_currency_alpha_code",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "restaurant_id",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "restaurant_city_name",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "restaurant_state_name",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "restaurant_country_name",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "restaurant_postal_code",
+                            "data_type": "int"
+                        },
+                        {
+                            "name": "restaurant_non_traditional_type_description",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "rewards_redeemed_amount",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "restaurant_number",
+                            "data_type": "smallint"
+                        },
+                        {
+                            "name": "business_date",
+                            "data_type": "date"
+                        },
+                        {
+                            "name": "promotion_id",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "promotion_name",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "promotion_description",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "discount_type_desc",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "coupon_offer_plu",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "whole_order_dis_fos",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "whole_order_dis_fosd",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "line_item_id",
+                            "data_type": "tinyint"
+                        }
+                    ]
+                },
+                "stg_kl_fact_web_visits": {
+                    "columns": [
+                        {
+                            "name": "visit_date",
+                            "data_type": "date"
+                        },
+                        {
+                            "name": "guest_id",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "device_name",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "utm_source",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "utm_medium",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "utm_campaign",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "has_any_utm",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "complete_utm_loss_flag",
+                            "data_type": "smallint"
+                        },
+                        {
+                            "name": "rendered_screen_size",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "visitor_id",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "geosegmentation_countries",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "cities",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "zip_postal_codes",
+                            "data_type": "int"
+                        },
+                        {
+                            "name": "visits",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "campaign_id",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "raw_url",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "touch_count",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "touchpoint_sequence",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "is_multi_touch",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "is_any_touch",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "is_first_touch",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "is_last_touch",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "touchpoint_type",
+                            "data_type": "nvarchar"
+                        }
+                    ]
+                },
+                "stg_kl_loyalty_transactions": {
+                    "columns": [
+                        {
+                            "name": "loyalty_guest_id",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "week_ending_date",
+                            "data_type": "date"
+                        },
+                        {
+                            "name": "transaction_date",
+                            "data_type": "datetime2"
+                        },
+                        {
+                            "name": "first_transaction_date",
+                            "data_type": "datetime2"
+                        },
+                        {
+                            "name": "days_from_first_transaction",
+                            "data_type": "smallint"
+                        },
+                        {
+                            "name": "guest_transaction_count",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "one_and_done",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "transaction_hour",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "time_of_day",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "day_of_week",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "message_key",
+                            "data_type": "int"
+                        },
+                        {
+                            "name": "transaction_date_utc",
+                            "data_type": "datetime2"
+                        },
+                        {
+                            "name": "order_discount_amount",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "menu_item_id",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "menu_item_name",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "menu_item_description",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "plu",
+                            "data_type": "int"
+                        },
+                        {
+                            "name": "product_category_description",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "department_description",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "menu_item_status_type_description",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "flavor_description",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "flavor_long_name",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "flavor_short_name",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "line_item_quantity",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "line_item_amount",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "line_item_amount_less_vat",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "line_item_discount_amount",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "line_item_description",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "order_total",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "order_amount",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "iso_currency_alpha_code",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "restaurant_id",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "restaurant_city_name",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "restaurant_state_name",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "restaurant_country_name",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "restaurant_postal_code",
+                            "data_type": "int"
+                        },
+                        {
+                            "name": "restaurant_non_traditional_type_description",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "rewards_redeemed_amount",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "restaurant_number",
+                            "data_type": "smallint"
+                        },
+                        {
+                            "name": "business_date",
+                            "data_type": "date"
+                        },
+                        {
+                            "name": "promotion_id",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "promotion_name",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "promotion_description",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "discount_type_description",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "coupon_offer_plu",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "whole_order_dis_fos",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "whole_order_dis_fosd",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "line_item_id",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "is_employee_meal",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "is_catering_flag",
+                            "data_type": "bit"
+                        }
+                    ]
+                },
+                "stg_kl_loyalty_transactions_agg": {
+                    "columns": [
+                        {
+                            "name": "loyalty_guest_id",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "week_ending_date",
+                            "data_type": "date"
+                        },
+                        {
+                            "name": "transaction_date",
+                            "data_type": "datetime2"
+                        },
+                        {
+                            "name": "first_transaction_date",
+                            "data_type": "datetime2"
+                        },
+                        {
+                            "name": "days_from_first_transaction",
+                            "data_type": "smallint"
+                        },
+                        {
+                            "name": "guest_transaction_count",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "one_and_done",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "transaction_hour",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "time_of_day",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "day_of_week",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "message_key",
+                            "data_type": "smallint"
+                        },
+                        {
+                            "name": "transaction_date_utc",
+                            "data_type": "datetime2"
+                        },
+                        {
+                            "name": "order_discount_amount",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "menu_item_id",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "menu_item_name",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "menu_item_description",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "plu",
+                            "data_type": "int"
+                        },
+                        {
+                            "name": "product_category_description",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "department_description",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "menu_item_status_type_description",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "flavor_description",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "flavor_long_name",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "flavor_short_name",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "line_item_quantity",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "line_item_amount",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "line_item_amount_less_vat",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "line_item_discount_amount",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "line_item_description",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "order_total",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "order_amount_x",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "iso_currency_alpha_code",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "restaurant_id",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "restaurant_city_name",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "restaurant_state_name",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "restaurant_country_name",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "restaurant_postal_code",
+                            "data_type": "int"
+                        },
+                        {
+                            "name": "restaurant_non_traditional_type_description",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "rewards_redeemed_amount",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "restaurant_number",
+                            "data_type": "smallint"
+                        },
+                        {
+                            "name": "business_date",
+                            "data_type": "date"
+                        },
+                        {
+                            "name": "promotion_id",
+                            "data_type": "int"
+                        },
+                        {
+                            "name": "promotion_name",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "promotion_description",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "discount_type_description",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "coupon_offer_plu",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "whole_order_dis_fos",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "whole_order_dis_fosd",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "line_item_id",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "is_employee_meal",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "is_catering_flag",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "cat",
+                            "data_type": "nvarchar"
+                        },
+                        {
+                            "name": "rn",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "order_amount_y",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "order_amount_less_vat",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "order_discount_total",
+                            "data_type": "float"
+                        },
+                        {
+                            "name": "is_pc_3_inch",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "is_pc_6_inch",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "is_add_on",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "is_bottled_beverage",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "is_cash_card",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "is_catering",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "is_chips",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "is_cookies",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "is_direct_delivery",
+                            "data_type": "tinyint"
+                        },
+                        {
+                            "name": "is_footlong",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "is_fountain",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "is_hot_beverage",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "is_mdp_add_ons",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "is_mdp_bottled_drinks",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "is_mdp_breadsticks_wings",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "is_mdp_calzone_slice",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "is_mdp_fountain_drinks",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "is_mdp_misc",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "is_mdp_pizza",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "is_muffin_melt",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "is_other_beverage",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "is_other_carrier",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "is_other_misc",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "is_pizza",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "is_returnable_items",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "is_salad",
+                            "data_type": "bit"
+                        },
+                        {
+                            "name": "is_soups",
+                            "data_type": "bit"
+                        }
+                    ]
+                },
+                "stg_touch_history": {
+                    "columns": [
+                        {
+                            "name": "guest_id",
+                            "data_type": "varchar"
+                        },
+                        {
+                            "name": "offer_id",
+                            "data_type": "varchar"
+                        },
+                        {
+                            "name": "touch_ts",
+                            "data_type": "datetime2"
+                        },
+                        {
+                            "name": "channel",
+                            "data_type": "varchar"
+                        }
+                    ]
+                },
+                "treated_dma": {
+                    "columns": [
+                        {
+                            "name": "dma",
+                            "data_type": "varchar"
+                        }
+                    ]
+                },
+                "candidate_offers_v2": {
+                    "columns": [
+                        {
+                            "name": "guest_id",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "promotion_id",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "promotion_name",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "product_category",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "base_price",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "allowed_discount_bands",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "channel_eligibility",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "decision_time",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "active_window",
+                            "data_type": "unknown"
+                        }
+                    ]
+                },
+                "decision_log_v1": {
+                    "columns": [
+                        {
+                            "name": "guest_id",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "promotion_id",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "promotion_name",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "p_treat",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "p_ctrl",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "uplift",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "expected_ticket",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "margin_pct",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "discount_band",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "discount_cost_banded",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "cannibalization_penalty",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "eim_final",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "channel_eligibility",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "snapshot_id",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "build_version",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "model_version",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "code_commit_sha",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "why_selected",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "score_ts",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "nlp_rationale",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "top_features_shap",
+                            "data_type": "unknown"
+                        }
+                    ]
+                },
+                "dim_store": {
+                    "columns": [
+                        {
+                            "name": "store_id",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "city",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "state",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "country",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "postal_code",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "store_type",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "dma",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "region",
+                            "data_type": "unknown"
+                        }
+                    ]
+                },
+                "fact_order": {
+                    "columns": [
+                        {
+                            "name": "store_id",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "order_ts",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "net_revenue",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "gross_revenue",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "discount_amount",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "order_count",
+                            "data_type": "unknown"
+                        }
+                    ]
+                },
+                "feature_mart": {
+                    "columns": [
+                        {
+                            "name": "guest_id",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "asof_date",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "aov_7d",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "visits_7d",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "aov_28d",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "visits_28d",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "aov_90d",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "visits_90d",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "aov_365d",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "recency_days",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "redemption_rate_90d",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "coupon_depth_90d",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "daypart_ratio_breakfast",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "daypart_ratio_lunch",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "daypart_ratio_dinner",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "solo_group_ratio",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "delivery_ratio",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "touches_72h",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "touches_email_72h",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "touches_push_72h",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "touches_inapp_72h",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "no_convert_72h",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "assist_email_72h",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "assist_push_72h",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "assist_inapp_72h",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "assist_web_72h",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "sku_affinity_topk_stub",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "new_item_trial_flag",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "rfm_r",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "rfm_f",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "rfm_m",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "mosaic_segment",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "holiday_flag",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "season",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "feature_ts",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "build_version",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "snapshot_id",
+                            "data_type": "unknown"
+                        }
+                    ]
+                },
+                "geo_guest_market_v1": {
+                    "columns": [
+                        {
+                            "name": "guest_id",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "market_label",
+                            "data_type": "unknown"
+                        }
+                    ]
+                },
+                "guardrail_config": {
+                    "columns": [
+                        {
+                            "name": "seg",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "max_discount_dollars",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "min_margin_percent",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "rationale",
+                            "data_type": "unknown"
+                        }
+                    ]
+                },
+                "label_set": {
+                    "columns": [
+                        {
+                            "name": "guest_id",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "decision_time",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "exposure_offer_id",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "eligible_flag",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "treatment_flag",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "channel_exposed",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "response_within_window",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "label_window_start",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "label_window_end",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "label_spec_version",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "snapshot_id",
+                            "data_type": "unknown"
+                        }
+                    ]
+                },
+                "last_visit": {
+                    "columns": [
+                        {
+                            "name": "loyalty_guest_id",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "last_txn_date",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "last_city",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "last_state",
+                            "data_type": "unknown"
+                        }
+                    ]
+                },
+                "modeling_set_v2": {
+                    "columns": [
+                        {
+                            "name": "guest_id",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "asof_date",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "aov_7d",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "visits_7d",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "aov_28d",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "visits_28d",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "aov_90d",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "visits_90d",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "aov_365d",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "recency_days",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "redemption_rate_90d",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "coupon_depth_90d",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "daypart_ratio_breakfast",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "daypart_ratio_lunch",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "daypart_ratio_dinner",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "solo_group_ratio",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "delivery_ratio",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "touches_72h",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "touches_email_72h",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "touches_push_72h",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "touches_inapp_72h",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "no_convert_72h",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "assist_email_72h",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "assist_push_72h",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "assist_inapp_72h",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "assist_web_72h",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "sku_affinity_topk_stub",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "new_item_trial_flag",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "rfm_r",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "rfm_f",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "rfm_m",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "mosaic_segment",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "holiday_flag",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "season",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "feature_ts",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "build_version",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "snapshot_id",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "decision_time",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "response_within_window",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "treatment_flag",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "channel_exposed",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "train_split",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "code_commit_sha",
+                            "data_type": "unknown"
+                        }
+                    ]
+                },
+                "model_scores_v1": {
+                    "columns": [
+                        {
+                            "name": "guest_id",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "promotion_id",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "aov_7d",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "visits_7d",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "aov_28d",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "visits_28d",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "aov_90d",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "visits_90d",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "aov_365d",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "recency_days",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "redemption_rate_90d",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "coupon_depth_90d",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "daypart_ratio_breakfast",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "daypart_ratio_lunch",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "daypart_ratio_dinner",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "solo_group_ratio",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "delivery_ratio",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "touches_72h",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "touches_email_72h",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "touches_push_72h",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "touches_inapp_72h",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "no_convert_72h",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "assist_email_72h",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "assist_push_72h",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "assist_inapp_72h",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "assist_web_72h",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "sku_affinity_topk_stub",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "new_item_trial_flag",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "rfm_r",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "rfm_f",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "rfm_m",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "mosaic_segment",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "holiday_flag",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "p_treat",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "p_ctrl",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "uplift",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "base_price",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "allowed_discount_bands",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "margin_basis_pct",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "channel_eligibility",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "promotion_name",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "product_category",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "max_discount_pct",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "margin_floor_pct",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "expected_ticket",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "margin_pct",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "discount_band",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "discount_cost",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "cannibalization_penalty",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "eim_raw",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "snapshot_id",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "build_version",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "model_version",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "code_commit_sha",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "score_ts",
+                            "data_type": "unknown"
+                        }
+                    ]
+                },
+                "offer_catalog_v1": {
+                    "columns": [
+                        {
+                            "name": "promotion_id",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "promotion_name",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "product_category",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "base_price",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "margin_basis_pct",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "allowed_discount_bands",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "channel_eligibility",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "legal_flag",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "policy_paused_flag",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "claims_approved",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "compliance_gate",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "start_date",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "end_date",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "snapshot_date",
+                            "data_type": "unknown"
+                        }
+                    ]
+                },
+                "pilot_transactions_v1": {
+                    "columns": [
+                        {
+                            "name": "txn_date",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "dma",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "treated_dma_flag",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "post_flag",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "revenue_per_store",
+                            "data_type": "unknown"
+                        }
+                    ]
+                },
+                "v_calendar": {
+                    "columns": [
+                        {
+                            "name": "d",
+                            "data_type": "unknown"
+                        }
+                    ]
+                },
+                "v_decision_export_marketing_v1": {
+                    "columns": [
+                        {
+                            "name": "guest_id",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "decision_time",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "offer_name",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "discount_band",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "recommended_channel",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "eim_usd",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "rationale",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "risk_flags",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "send_by",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "snapshot_id",
+                            "data_type": "unknown"
+                        }
+                    ]
+                },
+                "v_fatigue_72h_v1": {
+                    "columns": [
+                        {
+                            "name": "guest_id",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "offer_id",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "exposure_ts",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "channel",
+                            "data_type": "unknown"
+                        }
+                    ]
+                },
+                "v_nbo_rollup_offer_v1": {
+                    "columns": [
+                        {
+                            "name": "promotion_name",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "guests_recommended",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "total_eim_usd",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "avg_eim_usd",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "pct_near_margin_floor",
+                            "data_type": "unknown"
+                        }
+                    ]
+                },
+                "v_nbo_rollup_segment_v1": {
+                    "columns": [
+                        {
+                            "name": "rfm_segment",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "guests_recommended",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "total_eim_usd",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "avg_eim_usd",
+                            "data_type": "unknown"
+                        }
+                    ]
+                },
+                "v_panel": {
+                    "columns": [
+                        {
+                            "name": "store_id",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "wk",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "treated",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "orders",
+                            "data_type": "unknown"
+                        }
+                    ]
+                },
+                "v_redeem_detail": {
+                    "columns": [
+                        {
+                            "name": "guest_id",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "wk",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "discount_amt",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "discount_band",
+                            "data_type": "unknown"
+                        }
+                    ]
+                },
+                "v_season": {
+                    "columns": [
+                        {
+                            "name": "dt",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "season",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "holiday_flag",
+                            "data_type": "unknown"
+                        }
+                    ]
+                },
+                "v_segment": {
+                    "columns": [
+                        {
+                            "name": "guest_id",
+                            "data_type": "unknown"
+                        },
+                        {
+                            "name": "seg",
+                            "data_type": "unknown"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,26 @@
+store_id,city,state,country,postal_code,store_type,dma,region
+23,Fort Wayne,Indiana,USA,52504,Walmart,NULL,Indiana
+9,Naperville,Illinois,USA,30379,Mall,NULL,Illinois
+15,Atlanta,Georgia,USA,19116,Traditional,NULL,Georgia
+3,Harrisburg,Pennsylvania,USA,81482,Traditional,NULL,Pennsylvania
+12,Tacoma,Washington,USA,70217,University,NULL,Washington
+6,Alexandria,Virginia,USA,95181,Hospital,NULL,Virginia
+21,Green Bay,Wisconsin,USA,42087,Mall,NULL,Wisconsin
+7,Baltimore,Maryland,USA,68878,University,NULL,Maryland
+1,Rochester,New York,USA,24592,Traditional,NULL,New York
+24,Louisville,Kentucky,USA,40021,Walmart,NULL,Kentucky
+18,Ann Arbor,Michigan,USA,31319,Airport,NULL,Michigan
+10,Houston,Texas,USA,22156,Gas Station,NULL,Texas
+4,Boston,Massachusetts,USA,13905,Traditional,NULL,Massachusetts
+19,Rochester,Minnesota,USA,44993,Hospital,NULL,Minnesota
+25,Charleston,South Carolina,USA,62581,Airport,NULL,South Carolina
+13,Boulder,Colorado,USA,20328,University,NULL,Colorado
+5,New Haven,Connecticut,USA,88907,Traditional,NULL,Connecticut
+22,Memphis,Tennessee,USA,93886,Hospital,NULL,Tennessee
+16,Raleigh,North Carolina,USA,20458,Walmart,NULL,North Carolina
+2,Jersey City,New Jersey,USA,39256,Mall,NULL,New Jersey
+17,Columbus,Ohio,USA,59823,Airport,NULL,Ohio
+11,San Diego,California,USA,89131,Airport,NULL,California
+20,Columbia,Missouri,USA,19358,University,NULL,Missouri
+14,Scottsdale,Arizona,USA,91070,Walmart,NULL,Arizona
+8,Miami,Florida,USA,30926,Hospital,NULL,Florida

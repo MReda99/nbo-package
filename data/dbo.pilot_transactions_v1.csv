@@ -1,0 +1,949 @@
+txn_date,dma,treated_dma_flag,post_flag,revenue_per_store
+2024-09-11,Colorado,0,0,NULL
+2024-09-11,North Carolina,0,0,NULL
+2024-09-11,Ohio,0,0,NULL
+2024-09-11,Indiana,0,0,NULL
+2024-09-12,Georgia,0,0,NULL
+2024-09-12,New Jersey,0,0,NULL
+2024-09-12,Pennsylvania,0,0,NULL
+2024-09-12,Virginia,0,0,NULL
+2024-09-13,New York,1,0,NULL
+2024-09-13,Texas,0,0,NULL
+2024-09-13,Massachusetts,0,0,NULL
+2024-09-13,Virginia,0,0,NULL
+2024-09-14,Michigan,0,0,NULL
+2024-09-14,Indiana,0,0,NULL
+2024-09-15,California,0,0,NULL
+2024-09-15,Ohio,0,0,NULL
+2024-09-15,New Jersey,0,0,NULL
+2024-09-15,Tennessee,0,0,NULL
+2024-09-15,Connecticut,0,0,NULL
+2024-09-18,Missouri,0,0,NULL
+2024-09-18,Tennessee,0,0,NULL
+2024-09-19,Georgia,0,0,NULL
+2024-09-19,Ohio,0,0,NULL
+2024-09-19,Virginia,0,0,NULL
+2024-09-19,Maryland,0,0,NULL
+2024-09-19,Florida,0,0,NULL
+2024-09-20,Colorado,0,0,NULL
+2024-09-20,North Carolina,0,0,NULL
+2024-09-20,Maryland,0,0,NULL
+2024-09-21,Texas,0,0,NULL
+2024-09-21,Washington,0,0,NULL
+2024-09-21,North Carolina,0,0,NULL
+2024-09-21,Michigan,0,0,NULL
+2024-09-21,Maryland,0,0,NULL
+2024-09-22,Colorado,0,0,NULL
+2024-09-22,Georgia,0,0,NULL
+2024-09-22,Indiana,0,0,NULL
+2024-09-22,Florida,0,0,NULL
+2024-09-23,New Jersey,0,0,NULL
+2024-09-23,Connecticut,0,0,NULL
+2024-09-24,New York,1,0,NULL
+2024-09-24,Ohio,0,0,NULL
+2024-09-26,Arizona,0,0,NULL
+2024-09-26,Georgia,0,0,NULL
+2024-09-26,North Carolina,0,0,NULL
+2024-09-26,Minnesota,0,0,NULL
+2024-09-27,Ohio,0,0,NULL
+2024-09-27,Tennessee,0,0,NULL
+2024-09-28,North Carolina,0,0,NULL
+2024-09-28,Ohio,0,0,NULL
+2024-09-29,Arizona,0,0,NULL
+2024-09-29,North Carolina,0,0,NULL
+2024-09-29,Minnesota,0,0,NULL
+2024-09-29,Wisconsin,0,0,NULL
+2024-09-29,Illinois,0,0,NULL
+2024-09-30,Pennsylvania,0,0,NULL
+2024-09-30,Connecticut,0,0,NULL
+2024-10-01,New York,1,0,NULL
+2024-10-01,Colorado,0,0,NULL
+2024-10-01,New Jersey,0,0,NULL
+2024-10-03,Missouri,0,0,NULL
+2024-10-04,Michigan,0,0,NULL
+2024-10-04,Kentucky,0,0,NULL
+2024-10-05,Washington,0,0,NULL
+2024-10-05,North Carolina,0,0,NULL
+2024-10-05,Ohio,0,0,NULL
+2024-10-05,Indiana,0,0,NULL
+2024-10-06,Missouri,0,0,NULL
+2024-10-06,Illinois,0,0,NULL
+2024-10-07,Virginia,0,0,NULL
+2024-10-07,Illinois,0,0,NULL
+2024-10-08,Tennessee,0,0,NULL
+2024-10-08,Connecticut,0,0,NULL
+2024-10-09,Connecticut,0,0,NULL
+2024-10-09,Florida,0,0,NULL
+2024-10-09,Illinois,0,0,NULL
+2024-10-10,Indiana,0,0,NULL
+2024-10-11,Arizona,0,0,NULL
+2024-10-11,Tennessee,0,0,NULL
+2024-10-11,South Carolina,0,0,NULL
+2024-10-11,Florida,0,0,NULL
+2024-10-12,Maryland,0,0,NULL
+2024-10-13,Texas,0,0,NULL
+2024-10-13,California,0,0,NULL
+2024-10-13,Kentucky,0,0,NULL
+2024-10-13,South Carolina,0,0,NULL
+2024-10-13,Virginia,0,0,NULL
+2024-10-14,Colorado,0,0,NULL
+2024-10-14,Wisconsin,0,0,NULL
+2024-10-14,Kentucky,0,0,NULL
+2024-10-15,New Jersey,0,0,NULL
+2024-10-15,Connecticut,0,0,NULL
+2024-10-15,Virginia,0,0,NULL
+2024-10-16,Kentucky,0,0,NULL
+2024-10-17,New York,1,0,NULL
+2024-10-17,Colorado,0,0,NULL
+2024-10-17,Ohio,0,0,NULL
+2024-10-19,Illinois,0,0,NULL
+2024-10-20,Massachusetts,0,0,NULL
+2024-10-21,California,0,0,NULL
+2024-10-21,North Carolina,0,0,NULL
+2024-10-21,Michigan,0,0,NULL
+2024-10-21,Pennsylvania,0,0,NULL
+2024-10-22,Missouri,0,0,NULL
+2024-10-22,Florida,0,0,NULL
+2024-10-22,Illinois,0,0,NULL
+2024-10-23,Tennessee,0,0,NULL
+2024-10-23,Pennsylvania,0,0,NULL
+2024-10-24,Arizona,0,0,NULL
+2024-10-24,Connecticut,0,0,NULL
+2024-10-25,Georgia,0,0,NULL
+2024-10-26,Texas,0,0,NULL
+2024-10-26,South Carolina,0,0,NULL
+2024-10-27,North Carolina,0,0,NULL
+2024-10-27,Ohio,0,0,NULL
+2024-10-28,New York,1,0,NULL
+2024-10-28,Colorado,0,0,NULL
+2024-10-28,Indiana,0,0,NULL
+2024-10-29,Texas,0,0,NULL
+2024-10-29,Virginia,0,0,NULL
+2024-10-30,Washington,0,0,NULL
+2024-10-30,Missouri,0,0,NULL
+2024-10-30,Indiana,0,0,NULL
+2024-10-30,Massachusetts,0,0,NULL
+2024-10-31,Michigan,0,0,NULL
+2024-10-31,Maryland,0,0,NULL
+2024-11-01,North Carolina,0,0,NULL
+2024-11-02,Arizona,0,0,NULL
+2024-11-02,Maryland,0,0,NULL
+2024-11-04,Colorado,0,0,NULL
+2024-11-04,South Carolina,0,0,NULL
+2024-11-05,New York,1,0,NULL
+2024-11-05,Minnesota,0,0,NULL
+2024-11-05,South Carolina,0,0,NULL
+2024-11-06,California,0,0,NULL
+2024-11-06,Michigan,0,0,NULL
+2024-11-06,Missouri,0,0,NULL
+2024-11-07,Ohio,0,0,NULL
+2024-11-09,New York,1,0,NULL
+2024-11-09,Indiana,0,0,NULL
+2024-11-10,Texas,0,0,NULL
+2024-11-10,Washington,0,0,NULL
+2024-11-10,Missouri,0,0,NULL
+2024-11-10,Connecticut,0,0,NULL
+2024-11-11,Texas,0,0,NULL
+2024-11-11,Arizona,0,0,NULL
+2024-11-11,New Jersey,0,0,NULL
+2024-11-11,Maryland,0,0,NULL
+2024-11-11,Florida,0,0,NULL
+2024-11-12,Wisconsin,0,0,NULL
+2024-11-12,Connecticut,0,0,NULL
+2024-11-12,Florida,0,0,NULL
+2024-11-13,Missouri,0,0,NULL
+2024-11-14,North Carolina,0,0,NULL
+2024-11-14,Ohio,0,0,NULL
+2024-11-14,Wisconsin,0,0,NULL
+2024-11-15,Washington,0,0,NULL
+2024-11-15,North Carolina,0,0,NULL
+2024-11-15,Michigan,0,0,NULL
+2024-11-15,Minnesota,0,0,NULL
+2024-11-16,Wisconsin,0,0,NULL
+2024-11-16,Kentucky,0,0,NULL
+2024-11-16,Connecticut,0,0,NULL
+2024-11-16,Florida,0,0,NULL
+2024-11-17,California,0,0,NULL
+2024-11-17,Minnesota,0,0,NULL
+2024-11-18,New Jersey,0,0,NULL
+2024-11-18,Indiana,0,0,NULL
+2024-11-19,Ohio,0,0,NULL
+2024-11-21,Colorado,0,0,NULL
+2024-11-21,Georgia,0,0,NULL
+2024-11-21,North Carolina,0,0,NULL
+2024-11-22,Washington,0,0,NULL
+2024-11-22,Colorado,0,0,NULL
+2024-11-22,Illinois,0,0,NULL
+2024-11-23,Arizona,0,0,NULL
+2024-11-23,Indiana,0,0,NULL
+2024-11-23,Massachusetts,0,0,NULL
+2024-11-23,Connecticut,0,0,NULL
+2024-11-24,Colorado,0,0,NULL
+2024-11-24,Ohio,0,0,NULL
+2024-11-24,New Jersey,0,0,NULL
+2024-11-24,Wisconsin,0,0,NULL
+2024-11-25,Wisconsin,0,0,NULL
+2024-11-26,Minnesota,0,0,NULL
+2024-11-26,Missouri,0,0,NULL
+2024-11-27,New York,1,0,NULL
+2024-11-27,Washington,0,0,NULL
+2024-11-27,Arizona,0,0,NULL
+2024-11-27,Maryland,0,0,NULL
+2024-11-28,Minnesota,0,0,NULL
+2024-11-28,Maryland,0,0,NULL
+2024-11-29,California,0,0,NULL
+2024-11-29,Minnesota,0,0,NULL
+2024-11-29,Missouri,0,0,NULL
+2024-11-30,Wisconsin,0,0,NULL
+2024-11-30,Virginia,0,0,NULL
+2024-12-01,Arizona,0,0,NULL
+2024-12-01,Georgia,0,0,NULL
+2024-12-01,Florida,0,0,NULL
+2024-12-02,Georgia,0,0,NULL
+2024-12-02,Ohio,0,0,NULL
+2024-12-02,Minnesota,0,0,NULL
+2024-12-02,Missouri,0,0,NULL
+2024-12-02,Massachusetts,0,0,NULL
+2024-12-03,Colorado,0,0,NULL
+2024-12-03,Illinois,0,0,NULL
+2024-12-04,Georgia,0,0,NULL
+2024-12-04,Pennsylvania,0,0,NULL
+2024-12-05,Texas,0,0,NULL
+2024-12-05,California,0,0,NULL
+2024-12-06,California,0,0,NULL
+2024-12-06,North Carolina,0,0,NULL
+2024-12-06,Michigan,0,0,NULL
+2024-12-06,Virginia,0,0,NULL
+2024-12-06,Illinois,0,0,NULL
+2024-12-07,Missouri,0,0,NULL
+2024-12-07,Indiana,0,0,NULL
+2024-12-07,Massachusetts,0,0,NULL
+2024-12-07,Illinois,0,0,NULL
+2024-12-08,Tennessee,0,0,NULL
+2024-12-09,New York,1,0,NULL
+2024-12-09,Minnesota,0,0,NULL
+2024-12-09,Tennessee,0,0,NULL
+2024-12-09,Massachusetts,0,0,NULL
+2024-12-10,California,0,0,NULL
+2024-12-10,Washington,0,0,NULL
+2024-12-10,North Carolina,0,0,NULL
+2024-12-10,Wisconsin,0,0,NULL
+2024-12-10,Maryland,0,0,NULL
+2024-12-11,Ohio,0,0,NULL
+2024-12-11,Minnesota,0,0,NULL
+2024-12-11,Missouri,0,0,NULL
+2024-12-11,Florida,0,0,NULL
+2024-12-12,Missouri,0,0,NULL
+2024-12-12,Virginia,0,0,NULL
+2024-12-13,Maryland,0,0,NULL
+2024-12-14,Missouri,0,0,NULL
+2024-12-14,Massachusetts,0,0,NULL
+2024-12-14,Connecticut,0,0,NULL
+2024-12-15,Arizona,0,0,NULL
+2024-12-15,Maryland,0,0,NULL
+2024-12-16,California,0,0,NULL
+2024-12-16,Ohio,0,0,NULL
+2024-12-16,Wisconsin,0,0,NULL
+2024-12-16,South Carolina,0,0,NULL
+2024-12-17,New Jersey,0,0,NULL
+2024-12-18,Texas,0,0,NULL
+2024-12-18,Missouri,0,0,NULL
+2024-12-19,New York,1,0,NULL
+2024-12-19,Colorado,0,0,NULL
+2024-12-19,Arizona,0,0,NULL
+2024-12-19,New Jersey,0,0,NULL
+2024-12-19,Illinois,0,0,NULL
+2024-12-20,Michigan,0,0,NULL
+2024-12-20,Minnesota,0,0,NULL
+2024-12-20,Tennessee,0,0,NULL
+2024-12-20,Connecticut,0,0,NULL
+2024-12-21,Michigan,0,0,NULL
+2024-12-21,Minnesota,0,0,NULL
+2024-12-21,Pennsylvania,0,0,NULL
+2024-12-22,Minnesota,0,0,NULL
+2024-12-22,Wisconsin,0,0,NULL
+2024-12-23,Ohio,0,0,NULL
+2024-12-23,Michigan,0,0,NULL
+2024-12-24,Missouri,0,0,NULL
+2024-12-25,Ohio,0,0,NULL
+2024-12-25,Indiana,0,0,NULL
+2024-12-26,Michigan,0,0,NULL
+2024-12-26,Pennsylvania,0,0,NULL
+2024-12-27,California,0,0,NULL
+2024-12-27,New Jersey,0,0,NULL
+2024-12-27,Tennessee,0,0,NULL
+2024-12-27,Pennsylvania,0,0,NULL
+2024-12-27,Virginia,0,0,NULL
+2024-12-28,North Carolina,0,0,NULL
+2024-12-28,Michigan,0,0,NULL
+2024-12-28,Tennessee,0,0,NULL
+2024-12-28,Massachusetts,0,0,NULL
+2024-12-28,Maryland,0,0,NULL
+2024-12-29,Colorado,0,0,NULL
+2024-12-30,Michigan,0,0,NULL
+2024-12-30,Illinois,0,0,NULL
+2024-12-31,Texas,0,0,NULL
+2024-12-31,Minnesota,0,0,NULL
+2024-12-31,Virginia,0,0,NULL
+2025-01-01,Arizona,0,0,NULL
+2025-01-02,New Jersey,0,0,NULL
+2025-01-02,Missouri,0,0,NULL
+2025-01-02,Kentucky,0,0,NULL
+2025-01-03,Georgia,0,0,NULL
+2025-01-03,New Jersey,0,0,NULL
+2025-01-03,Indiana,0,0,NULL
+2025-01-03,Florida,0,0,NULL
+2025-01-04,Minnesota,0,0,NULL
+2025-01-04,Indiana,0,0,NULL
+2025-01-05,Minnesota,0,0,NULL
+2025-01-05,Maryland,0,0,NULL
+2025-01-06,South Carolina,0,0,NULL
+2025-01-06,Virginia,0,0,NULL
+2025-01-07,Georgia,0,0,NULL
+2025-01-07,Massachusetts,0,0,NULL
+2025-01-08,Ohio,0,0,NULL
+2025-01-08,Minnesota,0,0,NULL
+2025-01-08,Virginia,0,0,NULL
+2025-01-08,Florida,0,0,NULL
+2025-01-09,Minnesota,0,0,NULL
+2025-01-10,California,0,0,NULL
+2025-01-10,Colorado,0,0,NULL
+2025-01-10,Ohio,0,0,NULL
+2025-01-10,Tennessee,0,0,NULL
+2025-01-11,Texas,0,0,NULL
+2025-01-11,Ohio,0,0,NULL
+2025-01-11,South Carolina,0,0,NULL
+2025-01-11,Virginia,0,0,NULL
+2025-01-11,Florida,0,0,NULL
+2025-01-12,Indiana,0,0,NULL
+2025-01-12,Florida,0,0,NULL
+2025-01-13,Tennessee,0,0,NULL
+2025-01-13,South Carolina,0,0,NULL
+2025-01-13,Illinois,0,0,NULL
+2025-01-14,California,0,0,NULL
+2025-01-14,North Carolina,0,0,NULL
+2025-01-14,Kentucky,0,0,NULL
+2025-01-15,New York,1,0,NULL
+2025-01-15,California,0,0,NULL
+2025-01-15,Arizona,0,0,NULL
+2025-01-15,Georgia,0,0,NULL
+2025-01-15,Ohio,0,0,NULL
+2025-01-15,Kentucky,0,0,NULL
+2025-01-15,Illinois,0,0,NULL
+2025-01-16,Texas,0,0,NULL
+2025-01-16,Massachusetts,0,0,NULL
+2025-01-16,Florida,0,0,NULL
+2025-01-17,Minnesota,0,0,NULL
+2025-01-18,California,0,0,NULL
+2025-01-19,Connecticut,0,0,NULL
+2025-01-20,Michigan,0,0,NULL
+2025-01-20,Wisconsin,0,0,NULL
+2025-01-22,Ohio,0,0,NULL
+2025-01-22,Kentucky,0,0,NULL
+2025-01-22,Massachusetts,0,0,NULL
+2025-01-22,Virginia,0,0,NULL
+2025-01-22,Maryland,0,0,NULL
+2025-01-23,Colorado,0,0,NULL
+2025-01-24,North Carolina,0,0,NULL
+2025-01-24,Florida,0,0,NULL
+2025-01-25,California,0,0,NULL
+2025-01-25,South Carolina,0,0,NULL
+2025-01-26,New York,1,0,NULL
+2025-01-26,North Carolina,0,0,NULL
+2025-01-26,Michigan,0,0,NULL
+2025-01-26,Wisconsin,0,0,NULL
+2025-01-27,Tennessee,0,0,NULL
+2025-01-27,Maryland,0,0,NULL
+2025-01-28,California,0,0,NULL
+2025-01-28,Kentucky,0,0,NULL
+2025-01-28,Pennsylvania,0,0,NULL
+2025-01-28,Massachusetts,0,0,NULL
+2025-01-29,Colorado,0,0,NULL
+2025-01-29,North Carolina,0,0,NULL
+2025-01-29,Missouri,0,0,NULL
+2025-01-30,Texas,0,0,NULL
+2025-01-30,Tennessee,0,0,NULL
+2025-01-31,Georgia,0,0,NULL
+2025-01-31,Michigan,0,0,NULL
+2025-01-31,Indiana,0,0,NULL
+2025-01-31,Pennsylvania,0,0,NULL
+2025-02-01,Texas,0,0,NULL
+2025-02-01,Washington,0,0,NULL
+2025-02-01,Michigan,0,0,NULL
+2025-02-01,Virginia,0,0,NULL
+2025-02-01,Florida,0,0,NULL
+2025-02-02,Arizona,0,0,NULL
+2025-02-02,New Jersey,0,0,NULL
+2025-02-02,Massachusetts,0,0,NULL
+2025-02-02,Maryland,0,0,NULL
+2025-02-03,South Carolina,0,0,NULL
+2025-02-04,Arizona,0,0,NULL
+2025-02-04,Pennsylvania,0,0,NULL
+2025-02-05,Wisconsin,0,0,NULL
+2025-02-05,Indiana,0,0,NULL
+2025-02-06,California,0,0,NULL
+2025-02-06,Wisconsin,0,0,NULL
+2025-02-06,Tennessee,0,0,NULL
+2025-02-06,Pennsylvania,0,0,NULL
+2025-02-06,Illinois,0,0,NULL
+2025-02-07,Arizona,0,0,NULL
+2025-02-07,New Jersey,0,0,NULL
+2025-02-08,North Carolina,0,0,NULL
+2025-02-08,Illinois,0,0,NULL
+2025-02-09,California,0,0,NULL
+2025-02-09,Washington,0,0,NULL
+2025-02-09,Maryland,0,0,NULL
+2025-02-10,Georgia,0,0,NULL
+2025-02-10,Florida,0,0,NULL
+2025-02-11,Colorado,0,0,NULL
+2025-02-11,Georgia,0,0,NULL
+2025-02-11,North Carolina,0,0,NULL
+2025-02-11,Michigan,0,0,NULL
+2025-02-11,Florida,0,0,NULL
+2025-02-12,Ohio,0,0,NULL
+2025-02-12,Minnesota,0,0,NULL
+2025-02-12,Tennessee,0,0,NULL
+2025-02-12,Indiana,0,0,NULL
+2025-02-13,New York,1,0,NULL
+2025-02-13,Illinois,0,0,NULL
+2025-02-14,Georgia,0,0,NULL
+2025-02-14,New Jersey,0,0,NULL
+2025-02-14,Indiana,0,0,NULL
+2025-02-15,Washington,0,0,NULL
+2025-02-15,Ohio,0,0,NULL
+2025-02-15,Minnesota,0,0,NULL
+2025-02-15,Florida,0,0,NULL
+2025-02-16,New York,1,0,NULL
+2025-02-16,New Jersey,0,0,NULL
+2025-02-16,Wisconsin,0,0,NULL
+2025-02-17,Arizona,0,0,NULL
+2025-02-17,Pennsylvania,0,0,NULL
+2025-02-17,Connecticut,0,0,NULL
+2025-02-17,Virginia,0,0,NULL
+2025-02-18,New Jersey,0,0,NULL
+2025-02-19,Colorado,0,0,NULL
+2025-02-19,North Carolina,0,0,NULL
+2025-02-19,Tennessee,0,0,NULL
+2025-02-19,Massachusetts,0,0,NULL
+2025-02-20,Massachusetts,0,0,NULL
+2025-02-21,Pennsylvania,0,0,NULL
+2025-02-22,New Jersey,0,0,NULL
+2025-02-22,South Carolina,0,0,NULL
+2025-02-22,Maryland,0,0,NULL
+2025-02-23,Ohio,0,0,NULL
+2025-02-23,Michigan,0,0,NULL
+2025-02-23,Virginia,0,0,NULL
+2025-02-24,Arizona,0,0,NULL
+2025-02-24,Georgia,0,0,NULL
+2025-02-25,Missouri,0,0,NULL
+2025-02-25,Wisconsin,0,0,NULL
+2025-02-26,Georgia,0,0,NULL
+2025-02-26,North Carolina,0,0,NULL
+2025-02-26,Missouri,0,0,NULL
+2025-02-27,Washington,0,0,NULL
+2025-02-28,New Jersey,0,0,NULL
+2025-03-01,Georgia,0,0,NULL
+2025-03-01,Minnesota,0,0,NULL
+2025-03-01,Indiana,0,0,NULL
+2025-03-01,Kentucky,0,0,NULL
+2025-03-01,Florida,0,0,NULL
+2025-03-02,Indiana,0,0,NULL
+2025-03-03,New York,1,0,NULL
+2025-03-03,Tennessee,0,0,NULL
+2025-03-03,South Carolina,0,0,NULL
+2025-03-04,Colorado,0,0,NULL
+2025-03-04,New Jersey,0,0,NULL
+2025-03-04,Massachusetts,0,0,NULL
+2025-03-04,Illinois,0,0,NULL
+2025-03-05,Washington,0,0,NULL
+2025-03-05,Arizona,0,0,NULL
+2025-03-05,Minnesota,0,0,NULL
+2025-03-05,Kentucky,0,0,NULL
+2025-03-05,Virginia,0,0,NULL
+2025-03-06,Georgia,0,0,NULL
+2025-03-06,Illinois,0,0,NULL
+2025-03-07,Minnesota,0,0,NULL
+2025-03-07,Indiana,0,0,NULL
+2025-03-07,South Carolina,0,0,NULL
+2025-03-08,New Jersey,0,0,NULL
+2025-03-08,Missouri,0,0,NULL
+2025-03-08,Wisconsin,0,0,NULL
+2025-03-08,South Carolina,0,0,NULL
+2025-03-08,Massachusetts,0,0,NULL
+2025-03-09,Texas,0,0,NULL
+2025-03-09,California,0,0,NULL
+2025-03-09,Missouri,0,0,NULL
+2025-03-09,Wisconsin,0,0,NULL
+2025-03-09,Tennessee,0,0,NULL
+2025-03-09,Kentucky,0,0,NULL
+2025-03-09,Massachusetts,0,0,NULL
+2025-03-10,Tennessee,0,0,NULL
+2025-03-10,Illinois,0,0,NULL
+2025-03-11,California,0,0,NULL
+2025-03-11,Tennessee,0,0,NULL
+2025-03-11,Connecticut,0,0,NULL
+2025-03-12,Georgia,0,0,NULL
+2025-03-12,Kentucky,0,0,NULL
+2025-03-12,Virginia,0,0,NULL
+2025-03-12,Florida,0,0,NULL
+2025-03-13,Washington,0,0,NULL
+2025-03-13,Ohio,0,0,NULL
+2025-03-13,Michigan,0,0,NULL
+2025-03-14,Colorado,0,0,NULL
+2025-03-14,Arizona,0,0,NULL
+2025-03-14,Ohio,0,0,NULL
+2025-03-14,Tennessee,0,0,NULL
+2025-03-14,Massachusetts,0,0,NULL
+2025-03-15,Georgia,0,0,NULL
+2025-03-15,Michigan,0,0,NULL
+2025-03-15,Connecticut,0,0,NULL
+2025-03-15,Maryland,0,0,NULL
+2025-03-16,Michigan,0,0,NULL
+2025-03-16,Florida,0,0,NULL
+2025-03-17,California,0,0,NULL
+2025-03-19,New York,1,0,NULL
+2025-03-19,Texas,0,0,NULL
+2025-03-19,Georgia,0,0,NULL
+2025-03-20,Washington,0,0,NULL
+2025-03-20,Colorado,0,0,NULL
+2025-03-21,New York,1,0,NULL
+2025-03-21,Kentucky,0,0,NULL
+2025-03-22,Missouri,0,0,NULL
+2025-03-22,Tennessee,0,0,NULL
+2025-03-22,Indiana,0,0,NULL
+2025-03-22,Kentucky,0,0,NULL
+2025-03-22,Florida,0,0,NULL
+2025-03-23,Tennessee,0,0,NULL
+2025-03-23,Massachusetts,0,0,NULL
+2025-03-23,Illinois,0,0,NULL
+2025-03-24,California,0,0,NULL
+2025-03-24,Indiana,0,0,NULL
+2025-03-25,Georgia,0,0,NULL
+2025-03-25,New Jersey,0,0,NULL
+2025-03-25,Wisconsin,0,0,NULL
+2025-03-26,New York,1,0,NULL
+2025-03-26,California,0,0,NULL
+2025-03-26,Connecticut,0,0,NULL
+2025-03-27,Colorado,0,0,NULL
+2025-03-27,New Jersey,0,0,NULL
+2025-03-28,Ohio,0,0,NULL
+2025-03-28,Florida,0,0,NULL
+2025-03-29,Colorado,0,0,NULL
+2025-03-29,Connecticut,0,0,NULL
+2025-03-31,Michigan,0,0,NULL
+2025-03-31,Missouri,0,0,NULL
+2025-03-31,Tennessee,0,0,NULL
+2025-03-31,South Carolina,0,0,NULL
+2025-04-01,Missouri,0,0,NULL
+2025-04-02,New York,1,0,NULL
+2025-04-02,Ohio,0,0,NULL
+2025-04-02,Missouri,0,0,NULL
+2025-04-02,Kentucky,0,0,NULL
+2025-04-03,Colorado,0,0,NULL
+2025-04-03,South Carolina,0,0,NULL
+2025-04-04,Indiana,0,0,NULL
+2025-04-05,New York,1,0,NULL
+2025-04-05,Colorado,0,0,NULL
+2025-04-05,Arizona,0,0,NULL
+2025-04-05,South Carolina,0,0,NULL
+2025-04-06,Ohio,0,0,NULL
+2025-04-06,Missouri,0,0,NULL
+2025-04-06,Indiana,0,0,NULL
+2025-04-07,Michigan,0,0,NULL
+2025-04-07,Missouri,0,0,NULL
+2025-04-08,South Carolina,0,0,NULL
+2025-04-09,Washington,0,0,NULL
+2025-04-09,New Jersey,0,0,NULL
+2025-04-09,Maryland,0,0,NULL
+2025-04-09,Illinois,0,0,NULL
+2025-04-10,Washington,0,0,NULL
+2025-04-10,Georgia,0,0,NULL
+2025-04-10,Michigan,0,0,NULL
+2025-04-10,Indiana,0,0,NULL
+2025-04-10,Massachusetts,0,0,NULL
+2025-04-10,Florida,0,0,NULL
+2025-04-11,Wisconsin,0,0,NULL
+2025-04-11,Maryland,0,0,NULL
+2025-04-12,New York,1,0,NULL
+2025-04-12,New Jersey,0,0,NULL
+2025-04-12,Kentucky,0,0,NULL
+2025-04-12,Connecticut,0,0,NULL
+2025-04-12,Virginia,0,0,NULL
+2025-04-15,Tennessee,0,0,NULL
+2025-04-15,Kentucky,0,0,NULL
+2025-04-15,Florida,0,0,NULL
+2025-04-16,New York,1,0,NULL
+2025-04-16,Texas,0,0,NULL
+2025-04-16,Minnesota,0,0,NULL
+2025-04-16,Connecticut,0,0,NULL
+2025-04-17,Arizona,0,0,NULL
+2025-04-18,Texas,0,0,NULL
+2025-04-18,Pennsylvania,0,0,NULL
+2025-04-18,Illinois,0,0,NULL
+2025-04-19,Washington,0,0,NULL
+2025-04-19,Virginia,0,0,NULL
+2025-04-20,Ohio,0,0,NULL
+2025-04-20,Minnesota,0,0,NULL
+2025-04-20,New Jersey,0,0,NULL
+2025-04-20,South Carolina,0,0,NULL
+2025-04-21,Washington,0,0,NULL
+2025-04-21,Wisconsin,0,0,NULL
+2025-04-21,Massachusetts,0,0,NULL
+2025-04-21,Illinois,0,0,NULL
+2025-04-22,Minnesota,0,0,NULL
+2025-04-22,Massachusetts,0,0,NULL
+2025-04-23,Colorado,0,0,NULL
+2025-04-23,North Carolina,0,0,NULL
+2025-04-23,Maryland,0,0,NULL
+2025-04-24,Texas,0,0,NULL
+2025-04-24,Arizona,0,0,NULL
+2025-04-24,Minnesota,0,0,NULL
+2025-04-24,Connecticut,0,0,NULL
+2025-04-25,Maryland,0,0,NULL
+2025-04-26,Colorado,0,0,NULL
+2025-04-26,South Carolina,0,0,NULL
+2025-04-27,South Carolina,0,0,NULL
+2025-04-29,Ohio,0,0,NULL
+2025-04-29,Wisconsin,0,0,NULL
+2025-04-29,Kentucky,0,0,NULL
+2025-04-29,Illinois,0,0,NULL
+2025-04-30,New York,1,0,NULL
+2025-04-30,Texas,0,0,NULL
+2025-04-30,Ohio,0,0,NULL
+2025-04-30,Virginia,0,0,NULL
+2025-04-30,Florida,0,0,NULL
+2025-05-01,Texas,0,0,NULL
+2025-05-01,Washington,0,0,NULL
+2025-05-01,Maryland,0,0,NULL
+2025-05-02,California,0,0,NULL
+2025-05-02,Colorado,0,0,NULL
+2025-05-02,Kentucky,0,0,NULL
+2025-05-03,Texas,0,0,NULL
+2025-05-03,Ohio,0,0,NULL
+2025-05-03,Illinois,0,0,NULL
+2025-05-04,Minnesota,0,0,NULL
+2025-05-05,Georgia,0,0,NULL
+2025-05-06,Texas,0,0,NULL
+2025-05-06,New Jersey,0,0,NULL
+2025-05-06,Connecticut,0,0,NULL
+2025-05-06,Virginia,0,0,NULL
+2025-05-07,Georgia,0,0,NULL
+2025-05-08,Georgia,0,0,NULL
+2025-05-08,Ohio,0,0,NULL
+2025-05-08,Missouri,0,0,NULL
+2025-05-08,Tennessee,0,0,NULL
+2025-05-08,Pennsylvania,0,0,NULL
+2025-05-09,Indiana,0,0,NULL
+2025-05-10,North Carolina,0,0,NULL
+2025-05-12,Washington,0,0,NULL
+2025-05-12,North Carolina,0,0,NULL
+2025-05-12,Wisconsin,0,0,NULL
+2025-05-12,Massachusetts,0,0,NULL
+2025-05-13,California,0,0,NULL
+2025-05-13,North Carolina,0,0,NULL
+2025-05-14,Washington,0,0,NULL
+2025-05-14,Arizona,0,0,NULL
+2025-05-14,Virginia,0,0,NULL
+2025-05-14,Maryland,0,0,NULL
+2025-05-15,Wisconsin,0,0,NULL
+2025-05-16,Colorado,0,0,NULL
+2025-05-16,Connecticut,0,0,NULL
+2025-05-16,Maryland,0,0,NULL
+2025-05-17,Colorado,0,0,NULL
+2025-05-17,Connecticut,0,0,NULL
+2025-05-18,North Carolina,0,0,NULL
+2025-05-18,Illinois,0,0,NULL
+2025-05-20,Tennessee,0,0,NULL
+2025-05-20,Maryland,0,0,NULL
+2025-05-21,Texas,0,0,NULL
+2025-05-21,New Jersey,0,0,NULL
+2025-05-21,Missouri,0,0,NULL
+2025-05-21,Indiana,0,0,NULL
+2025-05-21,Florida,0,0,NULL
+2025-05-22,North Carolina,0,0,NULL
+2025-05-22,South Carolina,0,0,NULL
+2025-05-22,Maryland,0,0,NULL
+2025-05-23,Arizona,0,0,NULL
+2025-05-23,South Carolina,0,0,NULL
+2025-05-24,Washington,0,0,NULL
+2025-05-24,Pennsylvania,0,0,NULL
+2025-05-25,Michigan,0,0,NULL
+2025-05-25,Missouri,0,0,NULL
+2025-05-25,Tennessee,0,0,NULL
+2025-05-25,Indiana,0,0,NULL
+2025-05-25,Massachusetts,0,0,NULL
+2025-05-26,South Carolina,0,0,NULL
+2025-05-27,New York,1,0,NULL
+2025-05-28,Minnesota,0,0,NULL
+2025-05-28,Illinois,0,0,NULL
+2025-05-29,Illinois,0,0,NULL
+2025-06-01,New York,1,0,NULL
+2025-06-01,Wisconsin,0,0,NULL
+2025-06-01,Tennessee,0,0,NULL
+2025-06-01,Pennsylvania,0,0,NULL
+2025-06-01,Maryland,0,0,NULL
+2025-06-02,Ohio,0,0,NULL
+2025-06-02,Tennessee,0,0,NULL
+2025-06-02,Maryland,0,0,NULL
+2025-06-03,Colorado,0,0,NULL
+2025-06-03,Pennsylvania,0,0,NULL
+2025-06-03,Connecticut,0,0,NULL
+2025-06-04,Wisconsin,0,0,NULL
+2025-06-04,South Carolina,0,0,NULL
+2025-06-04,Virginia,0,0,NULL
+2025-06-05,California,0,0,NULL
+2025-06-05,North Carolina,0,0,NULL
+2025-06-05,Illinois,0,0,NULL
+2025-06-06,Michigan,0,0,NULL
+2025-06-06,Minnesota,0,0,NULL
+2025-06-06,Tennessee,0,0,NULL
+2025-06-07,Michigan,0,0,NULL
+2025-06-07,Missouri,0,0,NULL
+2025-06-07,Kentucky,0,0,NULL
+2025-06-08,Colorado,0,0,NULL
+2025-06-09,North Carolina,0,0,NULL
+2025-06-10,Texas,0,0,NULL
+2025-06-10,Pennsylvania,0,0,NULL
+2025-06-10,Massachusetts,0,0,NULL
+2025-06-10,Connecticut,0,0,NULL
+2025-06-11,Colorado,0,0,NULL
+2025-06-11,South Carolina,0,0,NULL
+2025-06-12,Texas,0,0,NULL
+2025-06-12,Minnesota,0,0,NULL
+2025-06-12,South Carolina,0,0,NULL
+2025-06-13,Texas,0,0,NULL
+2025-06-13,Kentucky,0,0,NULL
+2025-06-14,North Carolina,0,0,NULL
+2025-06-15,California,0,0,NULL
+2025-06-15,Georgia,0,0,NULL
+2025-06-15,Kentucky,0,0,NULL
+2025-06-15,Maryland,0,0,NULL
+2025-06-16,New York,1,0,NULL
+2025-06-16,Michigan,0,0,NULL
+2025-06-16,Indiana,0,0,NULL
+2025-06-16,Kentucky,0,0,NULL
+2025-06-16,Maryland,0,0,NULL
+2025-06-17,Minnesota,0,0,NULL
+2025-06-17,Missouri,0,0,NULL
+2025-06-17,South Carolina,0,0,NULL
+2025-06-18,Massachusetts,0,0,NULL
+2025-06-18,Florida,0,0,NULL
+2025-06-18,Illinois,0,0,NULL
+2025-06-19,Colorado,0,0,NULL
+2025-06-19,Indiana,0,0,NULL
+2025-06-19,Maryland,0,0,NULL
+2025-06-19,Illinois,0,0,NULL
+2025-06-20,New Jersey,0,0,NULL
+2025-06-20,Maryland,0,0,NULL
+2025-06-21,Pennsylvania,0,0,NULL
+2025-06-22,New Jersey,0,0,NULL
+2025-06-22,Wisconsin,0,0,NULL
+2025-06-22,Pennsylvania,0,0,NULL
+2025-06-22,Florida,0,0,NULL
+2025-06-23,North Carolina,0,0,NULL
+2025-06-23,Ohio,0,0,NULL
+2025-06-24,Texas,0,0,NULL
+2025-06-24,California,0,0,NULL
+2025-06-24,Minnesota,0,0,NULL
+2025-06-24,South Carolina,0,0,NULL
+2025-06-24,Massachusetts,0,0,NULL
+2025-06-25,Michigan,0,0,NULL
+2025-06-25,New Jersey,0,0,NULL
+2025-06-25,Indiana,0,0,NULL
+2025-06-25,Kentucky,0,0,NULL
+2025-06-26,Missouri,0,0,NULL
+2025-06-26,Indiana,0,0,NULL
+2025-06-26,Illinois,0,0,NULL
+2025-06-27,Michigan,0,0,NULL
+2025-06-27,Connecticut,0,0,NULL
+2025-06-28,Wisconsin,0,0,NULL
+2025-06-28,Tennessee,0,0,NULL
+2025-06-28,Indiana,0,0,NULL
+2025-06-28,Pennsylvania,0,0,NULL
+2025-06-29,Colorado,0,0,NULL
+2025-06-29,New Jersey,0,0,NULL
+2025-06-29,Missouri,0,0,NULL
+2025-06-29,Pennsylvania,0,0,NULL
+2025-06-30,Colorado,0,0,NULL
+2025-06-30,Arizona,0,0,NULL
+2025-07-01,Arizona,0,0,NULL
+2025-07-01,Georgia,0,0,NULL
+2025-07-01,North Carolina,0,0,NULL
+2025-07-02,North Carolina,0,0,NULL
+2025-07-03,North Carolina,0,0,NULL
+2025-07-03,New Jersey,0,0,NULL
+2025-07-03,Maryland,0,0,NULL
+2025-07-05,Washington,0,0,NULL
+2025-07-05,Indiana,0,0,NULL
+2025-07-05,Massachusetts,0,0,NULL
+2025-07-06,Colorado,0,0,NULL
+2025-07-06,New Jersey,0,0,NULL
+2025-07-06,Tennessee,0,0,NULL
+2025-07-07,Ohio,0,0,NULL
+2025-07-07,South Carolina,0,0,NULL
+2025-07-07,Maryland,0,0,NULL
+2025-07-08,New Jersey,0,0,NULL
+2025-07-08,Missouri,0,0,NULL
+2025-07-08,Indiana,0,0,NULL
+2025-07-08,Kentucky,0,0,NULL
+2025-07-09,Washington,0,0,NULL
+2025-07-09,Colorado,0,0,NULL
+2025-07-09,Ohio,0,0,NULL
+2025-07-09,Wisconsin,0,0,NULL
+2025-07-09,Tennessee,0,0,NULL
+2025-07-10,New York,1,0,NULL
+2025-07-10,Georgia,0,0,NULL
+2025-07-10,Massachusetts,0,0,NULL
+2025-07-10,Connecticut,0,0,NULL
+2025-07-10,Illinois,0,0,NULL
+2025-07-11,Connecticut,0,0,NULL
+2025-07-12,Ohio,0,0,NULL
+2025-07-12,Indiana,0,0,NULL
+2025-07-12,Kentucky,0,0,NULL
+2025-07-13,Pennsylvania,0,0,NULL
+2025-07-13,Massachusetts,0,0,NULL
+2025-07-14,North Carolina,0,0,NULL
+2025-07-14,Florida,0,0,NULL
+2025-07-15,California,0,0,NULL
+2025-07-15,Georgia,0,0,NULL
+2025-07-15,New Jersey,0,0,NULL
+2025-07-16,Ohio,0,0,NULL
+2025-07-16,Illinois,0,0,NULL
+2025-07-17,New Jersey,0,0,NULL
+2025-07-17,Connecticut,0,0,NULL
+2025-07-17,Virginia,0,0,NULL
+2025-07-17,Illinois,0,0,NULL
+2025-07-18,Texas,0,0,NULL
+2025-07-18,New Jersey,0,0,NULL
+2025-07-18,Maryland,0,0,NULL
+2025-07-19,Michigan,0,0,NULL
+2025-07-19,Massachusetts,0,0,NULL
+2025-07-20,Minnesota,0,0,NULL
+2025-07-20,Virginia,0,0,NULL
+2025-07-20,Maryland,0,0,NULL
+2025-07-21,Texas,0,0,NULL
+2025-07-21,Pennsylvania,0,0,NULL
+2025-07-21,Florida,0,0,NULL
+2025-07-22,Arizona,0,0,NULL
+2025-07-22,North Carolina,0,0,NULL
+2025-07-23,Washington,0,0,NULL
+2025-07-23,North Carolina,0,0,NULL
+2025-07-23,Massachusetts,0,0,NULL
+2025-07-24,Georgia,0,0,NULL
+2025-07-24,Michigan,0,0,NULL
+2025-07-24,Wisconsin,0,0,NULL
+2025-07-24,South Carolina,0,0,NULL
+2025-07-24,Florida,0,0,NULL
+2025-07-25,Washington,0,0,NULL
+2025-07-26,New York,1,0,NULL
+2025-07-26,Wisconsin,0,0,NULL
+2025-07-26,Indiana,0,0,NULL
+2025-07-26,South Carolina,0,0,NULL
+2025-07-27,Arizona,0,0,NULL
+2025-07-27,Virginia,0,0,NULL
+2025-07-28,Georgia,0,0,NULL
+2025-07-28,Connecticut,0,0,NULL
+2025-07-29,Michigan,0,0,NULL
+2025-07-30,New Jersey,0,0,NULL
+2025-07-30,Connecticut,0,0,NULL
+2025-07-30,Illinois,0,0,NULL
+2025-07-31,Colorado,0,0,NULL
+2025-07-31,North Carolina,0,0,NULL
+2025-07-31,Pennsylvania,0,0,NULL
+2025-07-31,Massachusetts,0,0,NULL
+2025-08-01,California,0,0,NULL
+2025-08-01,Missouri,0,0,NULL
+2025-08-01,South Carolina,0,0,NULL
+2025-08-02,Texas,0,0,NULL
+2025-08-02,New Jersey,0,0,NULL
+2025-08-02,Pennsylvania,0,0,NULL
+2025-08-03,Kentucky,0,0,NULL
+2025-08-04,Arizona,0,0,NULL
+2025-08-04,Kentucky,0,0,NULL
+2025-08-04,South Carolina,0,0,NULL
+2025-08-05,Florida,0,0,NULL
+2025-08-06,Colorado,0,0,NULL
+2025-08-06,Georgia,0,0,NULL
+2025-08-06,Michigan,0,0,NULL
+2025-08-06,Wisconsin,0,0,NULL
+2025-08-06,Massachusetts,0,0,NULL
+2025-08-07,Washington,0,0,NULL
+2025-08-07,Kentucky,0,0,NULL
+2025-08-09,California,0,0,NULL
+2025-08-09,North Carolina,0,0,NULL
+2025-08-09,Tennessee,0,0,NULL
+2025-08-09,Kentucky,0,0,NULL
+2025-08-09,Connecticut,0,0,NULL
+2025-08-10,Tennessee,0,0,NULL
+2025-08-11,Tennessee,0,0,NULL
+2025-08-12,Colorado,0,0,NULL
+2025-08-12,Missouri,0,0,NULL
+2025-08-12,Virginia,0,0,NULL
+2025-08-12,Illinois,0,0,NULL
+2025-08-13,Texas,0,0,NULL
+2025-08-13,Colorado,0,0,NULL
+2025-08-13,Arizona,0,0,NULL
+2025-08-13,Indiana,0,0,NULL
+2025-08-14,Texas,0,0,NULL
+2025-08-14,Michigan,0,0,NULL
+2025-08-14,Maryland,0,0,NULL
+2025-08-14,Florida,0,0,NULL
+2025-08-15,Missouri,0,0,NULL
+2025-08-15,Massachusetts,0,0,NULL
+2025-08-15,Virginia,0,0,NULL
+2025-08-16,Michigan,0,0,NULL
+2025-08-16,Wisconsin,0,0,NULL
+2025-08-16,Connecticut,0,0,NULL
+2025-08-17,Colorado,0,0,NULL
+2025-08-18,Massachusetts,0,0,NULL
+2025-08-18,Connecticut,0,0,NULL
+2025-08-19,Tennessee,0,0,NULL
+2025-08-20,New York,1,0,NULL
+2025-08-20,Arizona,0,0,NULL
+2025-08-20,North Carolina,0,0,NULL
+2025-08-20,South Carolina,0,0,NULL
+2025-08-20,Virginia,0,0,NULL
+2025-08-21,Minnesota,0,0,NULL
+2025-08-21,Massachusetts,0,0,NULL
+2025-08-21,Virginia,0,0,NULL
+2025-08-21,Florida,0,0,NULL
+2025-08-22,New Jersey,0,0,NULL
+2025-08-22,Connecticut,0,0,NULL
+2025-08-23,New York,1,0,NULL
+2025-08-23,Arizona,0,0,NULL
+2025-08-23,North Carolina,0,0,NULL
+2025-08-23,Massachusetts,0,0,NULL
+2025-08-25,Minnesota,0,0,NULL
+2025-08-25,Connecticut,0,0,NULL
+2025-08-26,Massachusetts,0,0,NULL
+2025-08-27,Colorado,0,0,NULL
+2025-08-27,Missouri,0,0,NULL
+2025-08-27,Indiana,0,0,NULL
+2025-08-28,Michigan,0,0,NULL
+2025-08-29,Massachusetts,0,0,NULL
+2025-08-29,Florida,0,0,NULL
+2025-08-29,Illinois,0,0,NULL
+2025-08-30,New York,1,0,NULL
+2025-08-30,Arizona,0,0,NULL
+2025-08-30,North Carolina,0,0,NULL
+2025-08-30,Tennessee,0,0,NULL
+2025-08-30,Kentucky,0,0,NULL
+2025-08-30,Pennsylvania,0,0,NULL
+2025-08-31,New Jersey,0,0,NULL
+2025-08-31,Indiana,0,0,NULL
+2025-09-01,Colorado,0,1,NULL
+2025-09-01,Arizona,0,1,NULL
+2025-09-01,North Carolina,0,1,NULL
+2025-09-01,Ohio,0,1,NULL
+2025-09-01,Indiana,0,1,NULL
+2025-09-01,Illinois,0,1,NULL
+2025-09-02,Missouri,0,1,NULL
+2025-09-02,Connecticut,0,1,NULL
+2025-09-02,Illinois,0,1,NULL
+2025-09-03,California,0,1,NULL
+2025-09-03,Pennsylvania,0,1,NULL
+2025-09-04,Indiana,0,1,NULL
+2025-09-04,Pennsylvania,0,1,NULL
+2025-09-05,Colorado,0,1,NULL
+2025-09-05,Wisconsin,0,1,NULL
+2025-09-05,Florida,0,1,NULL
