@@ -1,5 +1,7 @@
 # 🚀 NBO Package - Quick Reference
 
+> **Purpose**: This is a condensed reference guide providing the essential commands and workflow steps for users who need quick access to key functionality.
+
 ## Essential Commands for End Users
 
 ### 1. Installation (One Time)

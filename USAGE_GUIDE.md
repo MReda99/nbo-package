@@ -1,5 +1,7 @@
 # NBO Package - Installation & Usage Guide
 
+> **Purpose**: This guide provides detailed installation and usage instructions for both end users (data scientists/analysts) and developers, including Python API examples and troubleshooting.
+
 ## 🚀 Quick Start
 
 ### Installation
@@ -183,6 +185,7 @@ nbo-package/
 │   ├── user_setup.py       # User data setup utilities
 │   ├── validation.py       # Data validation
 │   ├── cli.py             # Command-line interface
+│   ├── povenance.py        # Provenance tracking (Note: filename has typo, should be provenance.py)
 │   └── config/            # Configuration files
 ├── data/                  # Sample data (for reference)
 ├── tests/                 # Test suite

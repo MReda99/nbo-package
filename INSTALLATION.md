@@ -1,5 +1,7 @@
 # 🚀 NBO Package - Installation Instructions
 
+> **Purpose**: This document provides simple, step-by-step installation instructions for end users, covering both wheel file and source code installation methods.
+
 ## For End Users (Simple Installation)
 
 ### Option 1: Install from Wheel File (Recommended)
@@ -64,8 +66,7 @@
 
 ✅ **Global CLI commands:**
 
-- `nbo-run` - Main command-line interface
-- `nbo-pipeline` - Direct pipeline runner
+- `nbo-run` - Main command-line interface with all functionality
 
 ✅ **Python package:**
 

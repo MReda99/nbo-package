@@ -1,5 +1,7 @@
 # 🎯 COMPLETE NBO Package Functionality
 
+> **Purpose**: This document provides a comprehensive overview of the complete NBO package functionality, explaining both validation and execution capabilities to help stakeholders understand the full value proposition.
+
 ## What Your Package Actually Does (Both Validation AND Execution)
 
 Your package provides **COMPLETE END-TO-END NBO PIPELINE**, not just validation:
@@ -42,7 +44,7 @@ This executes **your exact workflow**:
 
 1. **`catalog_guardrails.py`**
 
-   - Input: `offer_master.csv` (user's data)
+   - Input: User's offer catalog data
    - Output: `offer_catalog_v1.csv`
 
 2. **`contract_checks.py`**
@@ -57,7 +59,7 @@ This executes **your exact workflow**:
 
 4. **`model_training.py`**
 
-   - Inputs: `offer_master.csv`, `scored_candidates.csv`, `offer_catalog_v1.csv`
+   - Inputs: User's offer data, `scored_candidates.csv`, `offer_catalog_v1.csv`
    - Output: `model_scores_output.csv` ⭐
 
 5. **`guardrails_winners.py`**

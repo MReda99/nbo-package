@@ -1,5 +1,7 @@
 # 📋 NBO Package - Complete End User Guide
 
+> **Purpose**: This comprehensive guide walks end users through the complete process of installing, setting up, and running the NBO package from repository source code.
+
 ## For Users Who Clone/Download the Repository
 
 This guide shows exactly what end users need to do after getting your NBO package repository.

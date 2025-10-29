@@ -1,5 +1,7 @@
 # NBO Package - Next Best Offer Optimization
 
+> **Purpose**: This is the main project documentation providing an overview of the NBO package, its capabilities, installation instructions, and basic usage examples for developers and data scientists.
+
 A machine learning pipeline for personalized offer optimization that processes customer data, trains uplift models, and generates optimal offer recommendations.
 
 ## Overview
@@ -17,7 +19,7 @@ The NBO (Next Best Offer) package implements a complete pipeline for:
 ### From Source
 
 ```bash
-git clone https://github.com/your-org/nbo-package.git
+git clone <repository-url>
 cd nbo-package
 pip install -e .
 ```
@@ -25,7 +27,7 @@ pip install -e .
 ### For Development
 
 ```bash
-git clone https://github.com/your-org/nbo-package.git
+git clone <repository-url>
 cd nbo-package
 pip install -e ".[dev]"
 ```
@@ -55,11 +57,11 @@ results = pipeline.run()
 
 ```bash
 # Run the full pipeline
-nbo-pipeline --data-path ./data --config-path ./config --output-path ./output
+nbo-run --data-path ./data --output-path ./output pipeline
 
 # Run individual components
-nbo-run model-training --input feature_mart.csv --output model_scores.csv
-nbo-run guardrails --input model_scores.csv --output decisions.csv
+nbo-run --data-path ./data step model_training
+nbo-run --data-path ./data step guardrails_winners
 ```
 
 ## Data Requirements
@@ -131,8 +133,8 @@ The package uses a JSON schema file to define expected data structure:
 
 The pipeline generates:
 
-- `model_scores_output.parquet` - All scored guest-offer combinations
-- `decision_log_output.parquet` - Final offer decisions per customer
+- `model_scores_output.csv` - All scored guest-offer combinations
+- `decision_log_output.csv` - Final offer decisions per customer
 - Provenance tracking with timestamps and model versions
 
 ## Development

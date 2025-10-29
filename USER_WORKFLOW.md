@@ -1,5 +1,7 @@
 # 📋 End User Workflow - Complete Example
 
+> **Purpose**: This document demonstrates the complete end-user experience with concrete examples, showing exactly what users need to do and what they can expect from the NBO package.
+
 This shows exactly what an end user needs to do to use your NBO package.
 
 ## Step-by-Step User Experience

@@ -1,5 +1,7 @@
 # NBO Package - Distribution Guide
 
+> **Purpose**: This guide provides instructions for package maintainers on how to build and distribute the NBO package, and for end users on different installation methods.
+
 ## 📦 For Package Maintainers (You)
 
 ### Building Distribution Packages
