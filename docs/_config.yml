@@ -1,0 +1,34 @@
+title: NBO Package Documentation
+description: Next Best Offer Machine Learning Pipeline
+baseurl: "/nbo-package"
+url: "https://mreda99.github.io"
+
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Enable GitHub Pages
+github_username: mreda99
+repository: nbo-package
+
+# Navigation
+header_pages:
+  - INSTALLATION.md
+  - QUICK_REFERENCE.md
+  - USAGE_GUIDE.md
+  - END_USER_GUIDE.md
+
+# Exclude files from processing
+exclude:
+  - nbo/
+  - tests/
+  - dist/
+  - "*.pyc"
+  - __pycache__/
+  - .pytest_cache/
+  - htmlcov/
