@@ -18,7 +18,7 @@ Welcome to the NBO Package documentation! This machine learning pipeline provide
 
 ### **Reference Documentation**
 - [🎯 Complete Functionality](COMPLETE_FUNCTIONALITY.html) - Full feature overview
-- [📄 Main README](README.html) - Project overview and technical details
+- [📄 Project Overview](PROJECT_OVERVIEW.html) - Project overview and technical details
 
 ## 🚀 **Quick Start**
 
