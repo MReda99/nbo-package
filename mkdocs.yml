@@ -1,0 +1,47 @@
+site_name: NBO Package Documentation
+site_description: Next Best Offer Machine Learning Pipeline
+site_url: https://yourusername.github.io/nbo-package/
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: blue
+      accent: blue
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+
+nav:
+  - Home: README.md
+  - Getting Started:
+    - Installation: INSTALLATION.md
+    - Quick Reference: QUICK_REFERENCE.md
+    - User Workflow: USER_WORKFLOW.md
+  - Guides:
+    - End User Guide: END_USER_GUIDE.md
+    - Usage Guide: USAGE_GUIDE.md
+    - Distribution Guide: DISTRIBUTION_GUIDE.md
+  - Reference:
+    - Complete Functionality: COMPLETE_FUNCTIONALITY.md
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.details
+
+plugins:
+  - search
+  - mkdocs-jupyter
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/yourusername/nbo-package
