@@ -7,18 +7,18 @@ Welcome to the NBO Package documentation! This machine learning pipeline provide
 ## 📚 **Documentation Navigation**
 
 ### **Getting Started**
-- [📋 Installation Guide](INSTALLATION.html) - Simple installation instructions
-- [⚡ Quick Reference](QUICK_REFERENCE.html) - Essential commands and workflow
-- [👤 User Workflow](USER_WORKFLOW.html) - Complete user experience examples
+- [📋 Installation Guide](INSTALLATION.html)
+- [⚡ Quick Reference](QUICK_REFERENCE.html)
+- [👤 User Workflow](USER_WORKFLOW.html)
 
 ### **Comprehensive Guides**
-- [📖 End User Guide](END_USER_GUIDE.html) - Complete guide for repository users
-- [🔧 Usage Guide](USAGE_GUIDE.html) - Detailed usage for developers and analysts
-- [📦 Distribution Guide](DISTRIBUTION_GUIDE.html) - Package distribution instructions
+- [📖 End User Guide](END_USER_GUIDE.html)
+- [🔧 Usage Guide](USAGE_GUIDE.html)
+- [📦 Distribution Guide](DISTRIBUTION_GUIDE.html)
 
 ### **Reference Documentation**
-- [🎯 Complete Functionality](COMPLETE_FUNCTIONALITY.html) - Full feature overview
-- [📄 Project Overview](PROJECT_OVERVIEW.html) - Project overview and technical details
+- [🎯 Complete Functionality](COMPLETE_FUNCTIONALITY.html)
+- [📄 Project Overview](PROJECT_OVERVIEW.html)
 
 ## 🚀 **Quick Start**
 
