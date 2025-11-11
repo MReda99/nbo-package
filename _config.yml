@@ -5,7 +5,7 @@ url: "https://mreda99.github.io"
 
 markdown: kramdown
 highlighter: rouge
-# No theme - using custom layout to avoid automatic navigation
+theme: minima
 
 plugins:
   - jekyll-feed
@@ -16,12 +16,12 @@ plugins:
 github_username: mreda99
 repository: nbo-package
 
-# Navigation - disabled to avoid duplication with custom navigation
-# header_pages:
-#   - INSTALLATION.md
-#   - QUICK_REFERENCE.md
-#   - USAGE_GUIDE.md
-#   - END_USER_GUIDE.md
+# Navigation
+header_pages:
+  - INSTALLATION.md
+  - QUICK_REFERENCE.md
+  - USAGE_GUIDE.md
+  - END_USER_GUIDE.md
 
 # Exclude files from processing
 exclude:
@@ -32,3 +32,4 @@ exclude:
   - __pycache__/
   - .pytest_cache/
   - htmlcov/
+
