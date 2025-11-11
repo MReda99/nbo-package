@@ -16,12 +16,12 @@ plugins:
 github_username: mreda99
 repository: nbo-package
 
-# Navigation
-header_pages:
-  - INSTALLATION.md
-  - QUICK_REFERENCE.md
-  - USAGE_GUIDE.md
-  - END_USER_GUIDE.md
+# Navigation - disabled to avoid duplication with custom navigation
+# header_pages:
+#   - INSTALLATION.md
+#   - QUICK_REFERENCE.md
+#   - USAGE_GUIDE.md
+#   - END_USER_GUIDE.md
 
 # Exclude files from processing
 exclude:
