@@ -1,5 +1,3 @@
-# NBO Package Documentation
-
 > **Purpose**: This is the main documentation hub for the NBO Package, providing easy navigation to all documentation resources.
 
 Welcome to the NBO Package documentation! This machine learning pipeline provides complete Next Best Offer optimization capabilities.
