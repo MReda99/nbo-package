@@ -1,4 +1,4 @@
-# 📋 NBO Package - Complete End User Guide
+# NBO Package - Complete End User Guide
 
 > **Purpose**: This comprehensive guide walks end users through the complete process of installing, setting up, and running the NBO package from repository source code.
 
@@ -8,7 +8,7 @@ This guide shows exactly what end users need to do after getting your NBO packag
 
 ---
 
-## 🚀 Step 1: Installation
+## Step 1: Installation
 
 ### Prerequisites
 
@@ -38,7 +38,7 @@ nbo-run --version
 # Should output: nbo-package 1.0.0
 ```
 
-**✅ After this step:** All `nbo-run` commands are available globally on their system.
+**After this step:** All `nbo-run` commands are available globally on their system.
 
 ---
 
@@ -91,7 +91,7 @@ nbo-run setup-data-templates --output-dir my_data
 
 ---
 
-## 📊 Step 4: Prepare Your Data
+## Step 4: Prepare Your Data
 
 ### Required Input Files
 
@@ -125,7 +125,7 @@ mkdir user_data
 
 ---
 
-## ✅ Step 5: Validate Your Data
+## Step 5: Validate Your Data
 
 ### Check Data Quality
 
@@ -143,13 +143,13 @@ nbo-run --data-path my_data validate-user-data --save-report
 
 ### Validation Output
 
-- ✅ **PASSED**: Data is ready for pipeline
-- ⚠️ **PARTIAL**: Some files passed, some failed
-- ❌ **FAILED**: Critical issues need fixing
+• **PASSED**: Data is ready for pipeline
+• **PARTIAL**: Some files passed, some failed
+• **FAILED**: Critical issues need fixing
 
 ---
 
-## 🚀 Step 6: Run the Complete Pipeline
+## Step 6: Run the Complete Pipeline
 
 ### Execute All Steps
 
@@ -212,7 +212,7 @@ results/
 
 ---
 
-## 🔧 Step 8: Troubleshooting & Help
+## Step 8: Troubleshooting and Help
 
 ### Common Commands
 
@@ -258,7 +258,7 @@ nbo-run --data-path my_data step model_training
 
 ---
 
-## 📋 Complete Workflow Summary
+## Complete Workflow Summary
 
 ```bash
 # 1. Get the package
@@ -283,15 +283,15 @@ nbo-run --data-path my_data --output-path results pipeline
 
 **Total time:** ~10 minutes setup + data preparation time
 
-**Result:** Professional NBO pipeline outputs with complete ML scoring and business rule optimization! 🎉
+**Result:** Professional NBO pipeline outputs with complete ML scoring and business rule optimization!
 
 ---
 
-## 🎯 What You Get
+## What You Get
 
-- ✅ **Complete ML Pipeline**: Uplift modeling, scoring, optimization
-- ✅ **Business Rules**: Fatigue management, margin floors, discount caps
-- ✅ **Data Validation**: Against your JSON schema + business rules
-- ✅ **Professional Outputs**: Ready for marketing campaign execution
-- ✅ **Full Provenance**: Timestamps, versions, decision rationale
-- ✅ **Quality Reports**: Data quality scores and validation details
+• **Complete ML Pipeline**: Uplift modeling, scoring, optimization
+• **Business Rules**: Fatigue management, margin floors, discount caps
+• **Data Validation**: Against your JSON schema + business rules
+• **Professional Outputs**: Ready for marketing campaign execution
+• **Full Provenance**: Timestamps, versions, decision rationale
+• **Quality Reports**: Data quality scores and validation details

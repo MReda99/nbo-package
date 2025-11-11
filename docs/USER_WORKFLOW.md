@@ -1,4 +1,4 @@
-# 📋 End User Workflow - Complete Example
+# End User Workflow - Complete Example
 
 > **Purpose**: This document demonstrates the complete end-user experience with concrete examples, showing exactly what users need to do and what they can expect from the NBO package.
 
@@ -38,10 +38,10 @@ nbo-run --data-path my_company_data validate-user-data --save-report
 
 **Result:**
 
-- ✅ Validates all columns against your JSON schema
-- ✅ Checks data quality and business rules
-- ✅ Provides detailed quality scores
-- ✅ Saves validation report
+• Validates all columns against your JSON schema
+• Checks data quality and business rules
+• Provides detailed quality scores
+• Saves validation report
 
 ### 5. Run Pipeline (One Command)
 
@@ -74,12 +74,12 @@ nbo-run --data-path my_company_data --output-path results pipeline
 
 ## What Users GET
 
-- ✅ Professional NBO pipeline results
-- ✅ Complete data validation
-- ✅ Full provenance tracking
-- ✅ Quality reports
-- ✅ Ready-to-use marketing outputs
-- ✅ Built-in help system
+• Professional NBO pipeline results
+• Complete data validation
+• Full provenance tracking
+• Quality reports
+• Ready-to-use marketing outputs
+• Built-in help system
 
 ## Example User Commands
 

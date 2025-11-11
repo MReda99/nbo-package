@@ -2,7 +2,7 @@
 
 > **Purpose**: This guide provides instructions for package maintainers on how to build and distribute the NBO package, and for end users on different installation methods.
 
-## 📦 For Package Maintainers (You)
+## For Package Maintainers (You)
 
 ### Building Distribution Packages
 
@@ -99,17 +99,17 @@ nbo-run --data-path my_nbo_data --output-path results pipeline
 # 5. Check results in the results/ folder
 ```
 
-## 🔧 No Additional Setup Required
+## No Additional Setup Required
 
 Once installed, users get:
 
-- ✅ All CLI commands globally available
-- ✅ Python package for programmatic use
-- ✅ Data templates and validation
-- ✅ Complete pipeline orchestration
-- ✅ Built-in help and documentation
+• All CLI commands globally available
+• Python package for programmatic use
+• Data templates and validation
+• Complete pipeline orchestration
+• Built-in help and documentation
 
-## 📋 User Workflow
+## User Workflow
 
 1. **Install** the package (one command)
 2. **Generate** data templates (one command)

@@ -1,4 +1,4 @@
-# 🚀 NBO Package - Installation Instructions
+# NBO Package - Installation Instructions
 
 > **Purpose**: This document provides simple, step-by-step installation instructions for end users, covering both wheel file and source code installation methods.
 
@@ -64,16 +64,16 @@
 
 ## What Gets Installed
 
-✅ **Global CLI commands:**
+**Global CLI commands:**
 
-- `nbo-run` - Main command-line interface with all functionality
+• `nbo-run` - Main command-line interface with all functionality
 
-✅ **Python package:**
+**Python package:**
 
-- `import nbo` - For programmatic use
-- All data validation and pipeline functionality
+• `import nbo` - For programmatic use
+• All data validation and pipeline functionality
 
-✅ **Built-in data templates and validation**
+**Built-in data templates and validation**
 
 ## Quick Test
 
@@ -94,10 +94,10 @@ nbo-run check-pipeline
 
 Once installed, users can immediately:
 
-- ✅ Create data templates
-- ✅ Validate their CSV files against your schema
-- ✅ Run the complete NBO pipeline
-- ✅ Get professional results with full provenance
+• Create data templates
+• Validate their CSV files against your schema
+• Run the complete NBO pipeline
+• Get professional results with full provenance
 
 ## Getting Help
 

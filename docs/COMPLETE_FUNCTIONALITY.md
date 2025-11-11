@@ -1,4 +1,4 @@
-# 🎯 COMPLETE NBO Package Functionality
+# COMPLETE NBO Package Functionality
 
 > **Purpose**: This document provides a comprehensive overview of the complete NBO package functionality, explaining both validation and execution capabilities to help stakeholders understand the full value proposition.
 
@@ -6,19 +6,19 @@
 
 Your package provides **COMPLETE END-TO-END NBO PIPELINE**, not just validation:
 
-### ✅ **1. Schema Validation** (Input Validation)
+### **1. Schema Validation** (Input Validation)
 
 - Validates user CSV files against your `database_schema_v1.1.json`
 - Checks column names, data types, business rules
 - Provides data quality scores and reports
 
-### ✅ **2. Complete Pipeline Execution** (Your Python Scripts)
+### **2. Complete Pipeline Execution** (Your Python Scripts)
 
 - **Executes all 7 of your Python scripts** in correct dependency order
 - **Generates all outputs** as specified in your workflow
 - **Full workflow orchestration** with error handling
 
-## 📋 Complete User Workflow
+## Complete User Workflow
 
 ### Step 1: User Provides Data + Validation
 
@@ -40,7 +40,7 @@ nbo-run --data-path my_data --output-path results pipeline
 
 This executes **your exact workflow**:
 
-## 🔄 **What Actually Runs (Your Python Scripts)**
+## **What Actually Runs (Your Python Scripts)**
 
 1. **`catalog_guardrails.py`**
 
@@ -82,16 +82,16 @@ Users get **professional NBO results**:
 
 ### **Primary Outputs:**
 
-- ✅ **`model_scores_output.csv`** - All scored guest-offer combinations
-- ✅ **`decision_log_output.csv`** - Final offer decisions per customer
+• **`model_scores_output.csv`** - All scored guest-offer combinations
+• **`decision_log_output.csv`** - Final offer decisions per customer
 
 ### **Additional Outputs:**
 
-- ✅ **`test_marketing_view_output.csv`** - Marketing campaign view
-- ✅ **`offer_catalog_v1.csv`** - Processed offer catalog
-- ✅ **`scored_candidates.csv`** - Candidate offers after fatigue filtering
+• **`test_marketing_view_output.csv`** - Marketing campaign view
+• **`offer_catalog_v1.csv`** - Processed offer catalog
+• **`scored_candidates.csv`** - Candidate offers after fatigue filtering
 
-## 🎯 **Complete Value Proposition**
+## **Complete Value Proposition**
 
 ### **For Users:**
 
@@ -108,7 +108,7 @@ Users get **professional NBO results**:
 3. **Quality Control** - Built-in validation and error handling
 4. **Easy Distribution** - Single wheel file installation
 
-## 🚀 **User Experience Summary**
+## **User Experience Summary**
 
 ```bash
 # 1. Install (30 seconds)
@@ -128,7 +128,7 @@ nbo-run --data-path my_data --output-path results pipeline
 # RESULT: Complete NBO outputs ready for business use!
 ```
 
-## 📊 **What Users Get**
+## **What Users Get**
 
 ### **Input:** Their CSV files (validated against your schema)
 
@@ -139,6 +139,6 @@ nbo-run --data-path my_data --output-path results pipeline
 - `results/test_marketing_view_output.csv` - **Marketing-ready view**
 - Full provenance tracking and quality reports
 
-**This is a COMPLETE NBO SOLUTION, not just validation!** 🎉
+**This is a COMPLETE NBO SOLUTION, not just validation!**
 
 Your package takes user data, validates it, runs your entire ML pipeline, and produces professional NBO results.

@@ -2,7 +2,7 @@
 
 > **Purpose**: This guide provides detailed installation and usage instructions for both end users (data scientists/analysts) and developers, including Python API examples and troubleshooting.
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Installation
 
@@ -25,7 +25,7 @@ python -c "import nbo; print(f'NBO Package v{nbo.__version__} installed successf
 nbo-run --help
 ```
 
-## 📊 For End Users (Data Scientists/Analysts)
+## For End Users (Data Scientists/Analysts)
 
 ### Step 1: Set Up Your Data
 
@@ -83,7 +83,7 @@ Results will be in the `results/` directory:
 - `model_scores_output.csv` - All scored guest-offer combinations
 - `test_marketing_view_output.csv` - Marketing campaign view
 
-## 🔧 For Developers
+## For Developers
 
 ### Python API
 
@@ -121,7 +121,7 @@ expected_columns = config.get_expected_columns('feature_mart')
 validation = config.validate_table_columns('feature_mart', actual_columns)
 ```
 
-## 📋 Available Commands
+## Available Commands
 
 ```bash
 # Data setup and validation
@@ -173,7 +173,7 @@ nbo-run pipeline --help
 nbo-run validate-user-data --help
 ```
 
-## 📁 File Structure
+## File Structure
 
 ```
 nbo-package/
@@ -207,7 +207,7 @@ python -m pytest tests/ --cov=nbo --cov-report=html
 python tests/test_basic.py
 ```
 
-## 🔄 Development Workflow
+## Development Workflow
 
 1. **Make changes** to the package code
 2. **Run tests** to ensure nothing breaks
@@ -215,7 +215,7 @@ python tests/test_basic.py
 4. **Update version** in `nbo/_version.py`
 5. **Build package** with `pip install -e .`
 
-## 📦 Distribution
+## Distribution
 
 ```bash
 # Build distribution packages
