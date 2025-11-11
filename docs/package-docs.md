@@ -1,3 +1,5 @@
+# NBO Package Documentation
+
 > **Purpose**: This is the complete documentation for the NBO Package, providing installation guides, usage instructions, and developer resources.
 
 **[← Back to Main Hub](index.html)** | **[View Project Resources](project-resources.html)**
