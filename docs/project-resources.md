@@ -37,6 +37,7 @@ Each snapshot date has its own subfolder holding the generated output CSVs from 
 **[View Data Flow Diagram](https://drive.google.com/file/d/1aHSnklxH2L1BWZ9vt3y0N1iyz260WfyY/view?usp=drive_link)**
 
 This diagram illustrates:
+
 - Data flow from EDW (Enterprise Data Warehouse)
 - GDP (Guest Data Platform) integration
 - Transition to GDP 2.0
@@ -49,6 +50,7 @@ This diagram illustrates:
 **[Access Main Notebook](https://drive.google.com/file/d/1I-6C4Wk4GFIZH4kSisct9Wm4Pt-OBWc5/view?usp=drive_link)**
 
 This notebook contains:
+
 - Complete NBO pipeline implementation
 - Model training and validation code
 - Data processing and transformation logic
@@ -59,6 +61,7 @@ This notebook contains:
 
 ### By Date Snapshots
 All data (both input and output) is organized by snapshot dates:
+
 - **Format**: `YYYY_MM_DD_HHMM` (e.g., `2025_08_22_0000`)
 - **Input**: Raw data and features for that time period
 - **Output**: Generated results and decisions for that snapshot

@@ -39,17 +39,20 @@ The NBO (Next Best Offer) Project is a comprehensive machine learning solution t
 ## Project Components
 
 ### NBO Package
+
 - Installable Python package with CLI tools
 - Complete pipeline orchestration
 - Data validation and quality checks
 - Production ready deployment
 
 ### Project Resources
+
 - Historical data snapshots (organized by date)
 - Output results and analysis
 - Technical architecture diagrams
 - Development notebooks and code
 
 **Need help getting started?** 
+
 - For **using the package**: Start with [Package Documentation](package-docs.html)
 - For **understanding the project**: Check [Project Resources](project-resources.html)
