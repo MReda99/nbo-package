@@ -11,9 +11,20 @@ Each snapshot date has its own subfolder holding the corresponding input CSVs fo
 
 **[Access Input Data Folder](https://drive.google.com/drive/folders/1mmxN7z1garg77laIJvTU59xChbymuiBF?usp=drive_link)**
 
-- Historical customer data snapshots
-- Feature marts and transaction history
-- Offer catalogs and promotion data
+Core datasets: We load multiple datasets that serve distinct roles:
+
+- **Feature Mart**: the inputs our model will use to make predictions
+- **Label Set**: the outcomes we're trying to predict
+- **Offer Catalog**: all available promotions and their details
+- **Modelling Set**: a pre-assembled dataset designed specifically for training/testing the model
+- **Customer Orders**: historical transaction data, which we'll filter to only include actual redemptions
+
+Redemption activity: We focus only on transactions where a customer redeemed a promotion (promotion_id > 0). This ensures our analysis is meaningful and only considers actionable behavior.
+
+Touch history and customer fatigue: We load the "touches" dataset to see when and how customers were contacted. We convert timestamps to a standard format and filter only the last 72 hours before DECISION_DAY. This helps us avoid over-contacting the same guest with repeated promotions. If no touch data exists, we create an empty placeholder so the workflow doesn't break.
+
+Quality assurance (QA): We check that each guest–promotion pair is unique. Duplicates could distort analysis, so we print a simple QA check for quick verification.
+
 - Organized by date (e.g., 2025_08_22_0000)
 
 ### Output Results
