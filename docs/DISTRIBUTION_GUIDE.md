@@ -103,11 +103,11 @@ nbo-run --data-path my_nbo_data --output-path results pipeline
 
 Once installed, users get:
 
-• All CLI commands globally available
-• Python package for programmatic use
-• Data templates and validation
-• Complete pipeline orchestration
-• Built-in help and documentation
+- All CLI commands globally available
+- Python package for programmatic use
+- Data templates and validation
+- Complete pipeline orchestration
+- Built-in help and documentation
 
 ## User Workflow
 

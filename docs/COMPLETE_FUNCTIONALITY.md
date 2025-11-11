@@ -82,14 +82,14 @@ Users get **professional NBO results**:
 
 ### **Primary Outputs:**
 
-• **`model_scores_output.csv`** - All scored guest-offer combinations
-• **`decision_log_output.csv`** - Final offer decisions per customer
+- **`model_scores_output.csv`** - All scored guest-offer combinations
+- **`decision_log_output.csv`** - Final offer decisions per customer
 
 ### **Additional Outputs:**
 
-• **`test_marketing_view_output.csv`** - Marketing campaign view
-• **`offer_catalog_v1.csv`** - Processed offer catalog
-• **`scored_candidates.csv`** - Candidate offers after fatigue filtering
+- **`test_marketing_view_output.csv`** - Marketing campaign view
+- **`offer_catalog_v1.csv`** - Processed offer catalog
+- **`scored_candidates.csv`** - Candidate offers after fatigue filtering
 
 ## **Complete Value Proposition**
 

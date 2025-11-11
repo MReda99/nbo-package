@@ -9,18 +9,18 @@ Welcome to the NBO Package documentation! This machine learning pipeline provide
 ## Documentation Navigation
 
 ### Getting Started
-• [Installation Guide](INSTALLATION.html)
-• [Quick Reference](QUICK_REFERENCE.html)
-• [User Workflow](USER_WORKFLOW.html)
+- [Installation Guide](INSTALLATION.html)
+- [Quick Reference](QUICK_REFERENCE.html)
+- [User Workflow](USER_WORKFLOW.html)
 
 ### Comprehensive Guides
-• [End User Guide](END_USER_GUIDE.html)
-• [Usage Guide](USAGE_GUIDE.html)
-• [Distribution Guide](DISTRIBUTION_GUIDE.html)
+- [End User Guide](END_USER_GUIDE.html)
+- [Usage Guide](USAGE_GUIDE.html)
+- [Distribution Guide](DISTRIBUTION_GUIDE.html)
 
 ### Reference Documentation
-• [Complete Functionality](COMPLETE_FUNCTIONALITY.html)
-• [Project Overview](PROJECT_OVERVIEW.html)
+- [Complete Functionality](COMPLETE_FUNCTIONALITY.html)
+- [Project Overview](PROJECT_OVERVIEW.html)
 
 ## Quick Start
 
@@ -48,19 +48,19 @@ Welcome to the NBO Package documentation! This machine learning pipeline provide
 
 The NBO (Next Best Offer) Package is a complete machine learning pipeline that:
 
-• **Validates** customer data against predefined schemas
-• **Trains** uplift models for personalized offer optimization
-• **Applies** business rules and guardrails
-• **Generates** optimal offer recommendations
-• **Provides** full provenance tracking
+- **Validates** customer data against predefined schemas
+- **Trains** uplift models for personalized offer optimization
+- **Applies** business rules and guardrails
+- **Generates** optimal offer recommendations
+- **Provides** full provenance tracking
 
 ## Key Features
 
-• **Complete Pipeline**: End to end NBO processing
-• **Data Validation**: Schema validation and quality checks
-• **ML Models**: Uplift modeling and scoring
-• **Business Rules**: Fatigue management and margin floors
-• **Easy Installation**: Single wheel file installation
-• **CLI Interface**: Simple command line tools
+- **Complete Pipeline**: End to end NBO processing
+- **Data Validation**: Schema validation and quality checks
+- **ML Models**: Uplift modeling and scoring
+- **Business Rules**: Fatigue management and margin floors
+- **Easy Installation**: Single wheel file installation
+- **CLI Interface**: Simple command line tools
 
 **Need help?** Start with the [Installation Guide](INSTALLATION.html) or check the [Quick Reference](QUICK_REFERENCE.html) for essential commands.

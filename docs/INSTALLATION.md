@@ -66,12 +66,12 @@
 
 **Global CLI commands:**
 
-• `nbo-run` - Main command-line interface with all functionality
+- `nbo-run` - Main command-line interface with all functionality
 
 **Python package:**
 
-• `import nbo` - For programmatic use
-• All data validation and pipeline functionality
+- `import nbo` - For programmatic use
+- All data validation and pipeline functionality
 
 **Built-in data templates and validation**
 
@@ -94,10 +94,10 @@ nbo-run check-pipeline
 
 Once installed, users can immediately:
 
-• Create data templates
-• Validate their CSV files against your schema
-• Run the complete NBO pipeline
-• Get professional results with full provenance
+- Create data templates
+- Validate their CSV files against your schema
+- Run the complete NBO pipeline
+- Get professional results with full provenance
 
 ## Getting Help
 

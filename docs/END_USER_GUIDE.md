@@ -143,9 +143,9 @@ nbo-run --data-path my_data validate-user-data --save-report
 
 ### Validation Output
 
-• **PASSED**: Data is ready for pipeline
-• **PARTIAL**: Some files passed, some failed
-• **FAILED**: Critical issues need fixing
+- **PASSED**: Data is ready for pipeline
+- **PARTIAL**: Some files passed, some failed
+- **FAILED**: Critical issues need fixing
 
 ---
 
@@ -289,9 +289,9 @@ nbo-run --data-path my_data --output-path results pipeline
 
 ## What You Get
 
-• **Complete ML Pipeline**: Uplift modeling, scoring, optimization
-• **Business Rules**: Fatigue management, margin floors, discount caps
-• **Data Validation**: Against your JSON schema + business rules
-• **Professional Outputs**: Ready for marketing campaign execution
-• **Full Provenance**: Timestamps, versions, decision rationale
-• **Quality Reports**: Data quality scores and validation details
+- **Complete ML Pipeline**: Uplift modeling, scoring, optimization
+- **Business Rules**: Fatigue management, margin floors, discount caps
+- **Data Validation**: Against your JSON schema + business rules
+- **Professional Outputs**: Ready for marketing campaign execution
+- **Full Provenance**: Timestamps, versions, decision rationale
+- **Quality Reports**: Data quality scores and validation details
