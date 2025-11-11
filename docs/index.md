@@ -2,8 +2,6 @@
 
 ![Subway Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Subway_2016_logo.svg/200px-Subway_2016_logo.svg.png)
 
-> **Purpose**: This is the central hub for the NBO (Next Best Offer) project, providing access to both the package documentation and project resources including data, outputs, and technical diagrams.
-
 **Version**: 1.0.0
 
 **Contact Information**:
@@ -12,6 +10,9 @@
 - **Phone**: (347) 422-6417
 
 Welcome to the NBO Project Hub! This is your central access point for all NBO related resources and documentation.
+
+> **Purpose**: This is the central hub for the NBO (Next Best Offer) project, providing access to both the package documentation and project resources including data, outputs, and technical diagrams.
+
 
 ## Quick Navigation
 
